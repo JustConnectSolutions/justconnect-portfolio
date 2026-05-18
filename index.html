@@ -1,0 +1,893 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Just Connect Solutions — Web, App & AI-Powered Tools</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700;800&family=DM+Mono:wght@400;500&family=Manrope:wght@300;400;500;600&display=swap" rel="stylesheet">
+<style>
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --black: #080808;
+  --white: #f5f3ef;
+  --accent: #00e5a0;
+  --accent-dim: #00c488;
+  --mid: #1a1a1a;
+  --surface: #111111;
+  --border: rgba(255,255,255,0.08);
+  --muted: rgba(245,243,239,0.45);
+  --tag-bg: rgba(0,229,160,0.1);
+  --tag-color: #00e5a0;
+}
+
+html { scroll-behavior: smooth; }
+
+body {
+  font-family: 'Manrope', sans-serif;
+  background: var(--black);
+  color: var(--white);
+  overflow-x: hidden;
+  cursor: none;
+}
+
+/* CURSOR */
+.cursor {
+  width: 10px; height: 10px;
+  background: var(--accent);
+  border-radius: 50%;
+  position: fixed;
+  top: 0; left: 0;
+  pointer-events: none;
+  z-index: 9999;
+  transition: transform 0.15s ease;
+}
+.cursor-ring {
+  width: 36px; height: 36px;
+  border: 1px solid var(--accent);
+  border-radius: 50%;
+  position: fixed;
+  top: 0; left: 0;
+  pointer-events: none;
+  z-index: 9998;
+  transition: all 0.12s ease;
+  opacity: 0.5;
+}
+
+/* NAV */
+nav {
+  position: fixed; top: 0; left: 0; right: 0;
+  z-index: 100;
+  display: flex; align-items: center; justify-content: space-between;
+  padding: 20px 48px;
+  border-bottom: 1px solid var(--border);
+  background: rgba(8,8,8,0.85);
+  backdrop-filter: blur(16px);
+}
+.nav-logo {
+  font-family: 'Syne', sans-serif;
+  font-size: 15px; font-weight: 700;
+  letter-spacing: 0.5px;
+  color: var(--white);
+  text-decoration: none;
+}
+.nav-logo span { color: var(--accent); }
+.nav-links { display: flex; gap: 36px; list-style: none; }
+.nav-links a {
+  font-size: 13px; font-weight: 500;
+  color: var(--muted); text-decoration: none;
+  letter-spacing: 0.3px;
+  transition: color 0.2s;
+}
+.nav-links a:hover { color: var(--white); }
+.nav-cta {
+  background: var(--accent); color: var(--black);
+  border: none; padding: 10px 22px;
+  font-family: 'Manrope', sans-serif; font-size: 13px; font-weight: 600;
+  border-radius: 4px; cursor: none;
+  text-decoration: none;
+  transition: background 0.2s, transform 0.15s;
+  display: inline-block;
+}
+.nav-cta:hover { background: var(--accent-dim); transform: translateY(-1px); }
+
+/* HERO */
+.hero {
+  min-height: 100vh;
+  display: flex; flex-direction: column;
+  justify-content: center;
+  padding: 120px 48px 80px;
+  position: relative;
+  overflow: hidden;
+}
+.hero-grid {
+  position: absolute; inset: 0;
+  background-image:
+    linear-gradient(rgba(0,229,160,0.04) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(0,229,160,0.04) 1px, transparent 1px);
+  background-size: 60px 60px;
+  pointer-events: none;
+}
+.hero-glow {
+  position: absolute;
+  width: 600px; height: 600px;
+  background: radial-gradient(circle, rgba(0,229,160,0.08) 0%, transparent 70%);
+  top: -100px; right: -100px;
+  pointer-events: none;
+}
+.hero-tag {
+  display: inline-flex; align-items: center; gap: 8px;
+  background: var(--tag-bg); color: var(--tag-color);
+  border: 1px solid rgba(0,229,160,0.2);
+  padding: 6px 14px; border-radius: 100px;
+  font-size: 12px; font-weight: 600; letter-spacing: 1px; text-transform: uppercase;
+  margin-bottom: 28px;
+  width: fit-content;
+  animation: fadeUp 0.6s ease both;
+}
+.hero-tag::before { content: "●"; font-size: 8px; animation: blink 1.5s infinite; }
+@keyframes blink { 0%,100% { opacity: 1; } 50% { opacity: 0.3; } }
+
+.hero h1 {
+  font-family: 'Syne', sans-serif;
+  font-size: clamp(52px, 7vw, 96px);
+  font-weight: 800;
+  line-height: 1.0;
+  letter-spacing: -2px;
+  margin-bottom: 28px;
+  animation: fadeUp 0.6s ease 0.1s both;
+}
+.hero h1 em {
+  font-style: normal;
+  color: var(--accent);
+  display: block;
+}
+.hero-sub {
+  font-size: 18px; font-weight: 300;
+  color: var(--muted); line-height: 1.7;
+  max-width: 560px;
+  margin-bottom: 48px;
+  animation: fadeUp 0.6s ease 0.2s both;
+}
+.hero-actions {
+  display: flex; gap: 14px; align-items: center;
+  animation: fadeUp 0.6s ease 0.3s both;
+}
+.btn-primary {
+  background: var(--accent); color: var(--black);
+  border: none; padding: 14px 32px;
+  font-family: 'Manrope', sans-serif; font-size: 14px; font-weight: 700;
+  border-radius: 4px; cursor: none; text-decoration: none;
+  transition: all 0.2s; display: inline-block;
+  letter-spacing: 0.3px;
+}
+.btn-primary:hover { background: var(--accent-dim); transform: translateY(-2px); }
+.btn-ghost {
+  border: 1px solid var(--border); color: var(--muted);
+  padding: 14px 32px;
+  font-family: 'Manrope', sans-serif; font-size: 14px; font-weight: 500;
+  border-radius: 4px; cursor: none; text-decoration: none;
+  transition: all 0.2s; display: inline-block;
+}
+.btn-ghost:hover { border-color: rgba(255,255,255,0.2); color: var(--white); }
+
+.hero-stats {
+  display: flex; gap: 48px;
+  margin-top: 80px; padding-top: 48px;
+  border-top: 1px solid var(--border);
+  animation: fadeUp 0.6s ease 0.4s both;
+}
+.hero-stat-num {
+  font-family: 'Syne', sans-serif;
+  font-size: 36px; font-weight: 800;
+  color: var(--accent); line-height: 1;
+  margin-bottom: 6px;
+}
+.hero-stat-label {
+  font-size: 12px; color: var(--muted);
+  letter-spacing: 0.5px; text-transform: uppercase;
+}
+
+@keyframes fadeUp {
+  from { opacity: 0; transform: translateY(24px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* SECTION BASE */
+section { padding: 100px 48px; }
+.section-tag {
+  font-family: 'DM Mono', monospace;
+  font-size: 11px; color: var(--accent);
+  letter-spacing: 2px; text-transform: uppercase;
+  margin-bottom: 16px;
+}
+.section-title {
+  font-family: 'Syne', sans-serif;
+  font-size: clamp(32px, 4vw, 52px);
+  font-weight: 800; letter-spacing: -1px;
+  line-height: 1.1; margin-bottom: 20px;
+}
+.section-sub {
+  font-size: 16px; color: var(--muted);
+  line-height: 1.7; max-width: 520px;
+  margin-bottom: 60px;
+}
+
+/* SERVICES */
+#services { background: var(--surface); }
+.services-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1px;
+  background: var(--border);
+  border: 1px solid var(--border);
+  border-radius: 8px; overflow: hidden;
+}
+.service-card {
+  background: var(--surface);
+  padding: 40px 32px;
+  transition: background 0.2s;
+  position: relative;
+}
+.service-card:hover { background: #161616; }
+.service-card::after {
+  content: "";
+  position: absolute; bottom: 0; left: 32px; right: 32px;
+  height: 2px; background: var(--accent);
+  transform: scaleX(0); transform-origin: left;
+  transition: transform 0.3s ease;
+}
+.service-card:hover::after { transform: scaleX(1); }
+.service-num {
+  font-family: 'DM Mono', monospace;
+  font-size: 11px; color: var(--accent);
+  letter-spacing: 2px; margin-bottom: 24px;
+}
+.service-icon {
+  font-size: 28px; margin-bottom: 20px;
+}
+.service-title {
+  font-family: 'Syne', sans-serif;
+  font-size: 20px; font-weight: 700;
+  margin-bottom: 12px;
+}
+.service-desc {
+  font-size: 14px; color: var(--muted);
+  line-height: 1.7;
+}
+.service-tags { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 20px; }
+.tag {
+  background: var(--tag-bg); color: var(--tag-color);
+  padding: 4px 10px; border-radius: 4px;
+  font-size: 11px; font-weight: 600; letter-spacing: 0.5px;
+  font-family: 'DM Mono', monospace;
+}
+
+/* PROJECT */
+#project { background: var(--black); }
+.project-feature {
+  display: grid; grid-template-columns: 1fr 1fr;
+  gap: 80px; align-items: start;
+  margin-bottom: 80px;
+}
+.project-screens {
+  position: relative;
+  aspect-ratio: 4/3;
+  background: var(--surface);
+  border-radius: 12px; overflow: hidden;
+  border: 1px solid var(--border);
+}
+.screen-mockup {
+  width: 100%; height: 100%;
+  display: flex; flex-direction: column;
+}
+.screen-bar {
+  background: #1a1a1a;
+  padding: 10px 16px;
+  display: flex; align-items: center; gap: 8px;
+  border-bottom: 1px solid var(--border);
+  flex-shrink: 0;
+}
+.screen-dot { width: 10px; height: 10px; border-radius: 50%; }
+.screen-body { flex: 1; display: grid; grid-template-columns: 160px 1fr; }
+.screen-sidebar { background: #0f0f0f; border-right: 1px solid var(--border); padding: 16px 12px; }
+.screen-nav-item {
+  height: 8px; border-radius: 4px;
+  margin-bottom: 10px;
+  background: rgba(255,255,255,0.06);
+}
+.screen-nav-item.active { background: rgba(0,229,160,0.3); width: 70%; }
+.screen-main { padding: 16px; display: flex; flex-direction: column; gap: 10px; }
+.screen-stat-row { display: grid; grid-template-columns: repeat(4,1fr); gap: 8px; }
+.screen-stat {
+  background: rgba(255,255,255,0.04);
+  border-radius: 6px; padding: 10px 8px;
+  border: 1px solid var(--border);
+}
+.screen-stat-val { height: 14px; background: var(--accent); border-radius: 3px; width: 60%; margin-bottom: 5px; opacity: 0.7; }
+.screen-stat-label { height: 6px; background: rgba(255,255,255,0.1); border-radius: 3px; width: 80%; }
+.screen-table { background: rgba(255,255,255,0.03); border-radius: 6px; border: 1px solid var(--border); overflow: hidden; flex: 1; }
+.screen-table-row { padding: 8px 10px; border-bottom: 1px solid var(--border); display: flex; align-items: center; gap: 8px; }
+.screen-table-row:last-child { border-bottom: none; }
+.screen-cell { height: 6px; border-radius: 3px; background: rgba(255,255,255,0.08); }
+.screen-badge { height: 16px; width: 48px; border-radius: 10px; background: rgba(0,229,160,0.2); flex-shrink: 0; }
+.screen-badge.red { background: rgba(220,80,80,0.2); }
+.screen-badge.yellow { background: rgba(220,180,80,0.2); }
+
+.project-info { padding-top: 12px; }
+.project-number {
+  font-family: 'DM Mono', monospace;
+  font-size: 11px; color: var(--accent);
+  letter-spacing: 2px; margin-bottom: 16px;
+}
+.project-title {
+  font-family: 'Syne', sans-serif;
+  font-size: 36px; font-weight: 800;
+  letter-spacing: -0.5px; line-height: 1.1;
+  margin-bottom: 16px;
+}
+.project-desc {
+  font-size: 15px; color: var(--muted);
+  line-height: 1.8; margin-bottom: 28px;
+}
+.project-features { list-style: none; margin-bottom: 32px; }
+.project-features li {
+  display: flex; align-items: flex-start; gap: 12px;
+  padding: 10px 0; border-bottom: 1px solid var(--border);
+  font-size: 14px; color: var(--muted);
+}
+.project-features li::before {
+  content: "→";
+  color: var(--accent); font-family: 'DM Mono', monospace;
+  flex-shrink: 0; margin-top: 1px;
+}
+.tech-stack { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 32px; }
+
+/* PROCESS */
+#process { background: var(--surface); }
+.process-steps {
+  display: grid; grid-template-columns: repeat(4, 1fr);
+  gap: 1px; background: var(--border);
+  border: 1px solid var(--border); border-radius: 8px; overflow: hidden;
+}
+.process-step {
+  background: var(--surface);
+  padding: 36px 28px;
+}
+.process-step-num {
+  font-family: 'Syne', sans-serif;
+  font-size: 48px; font-weight: 800;
+  color: rgba(0,229,160,0.15);
+  line-height: 1; margin-bottom: 16px;
+}
+.process-step-title {
+  font-family: 'Syne', sans-serif;
+  font-size: 17px; font-weight: 700;
+  margin-bottom: 10px;
+}
+.process-step-desc {
+  font-size: 13px; color: var(--muted);
+  line-height: 1.7;
+}
+
+/* PRICING */
+#pricing { background: var(--black); }
+.pricing-grid {
+  display: grid; grid-template-columns: repeat(3,1fr);
+  gap: 20px;
+}
+.pricing-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 8px; padding: 40px 32px;
+  position: relative; transition: border-color 0.2s;
+}
+.pricing-card:hover { border-color: rgba(0,229,160,0.3); }
+.pricing-card.featured {
+  border-color: var(--accent);
+  background: rgba(0,229,160,0.04);
+}
+.pricing-featured-badge {
+  position: absolute; top: -12px; left: 50%; transform: translateX(-50%);
+  background: var(--accent); color: var(--black);
+  font-size: 11px; font-weight: 700; letter-spacing: 1px; text-transform: uppercase;
+  padding: 4px 16px; border-radius: 100px;
+  white-space: nowrap;
+}
+.pricing-name {
+  font-family: 'Syne', sans-serif;
+  font-size: 14px; font-weight: 700;
+  letter-spacing: 1px; text-transform: uppercase;
+  color: var(--muted); margin-bottom: 16px;
+}
+.pricing-price {
+  font-family: 'Syne', sans-serif;
+  font-size: 48px; font-weight: 800;
+  letter-spacing: -2px; line-height: 1;
+  margin-bottom: 6px;
+}
+.pricing-price span { font-size: 20px; letter-spacing: 0; vertical-align: super; }
+.pricing-period {
+  font-size: 13px; color: var(--muted);
+  margin-bottom: 28px;
+}
+.pricing-divider { height: 1px; background: var(--border); margin-bottom: 28px; }
+.pricing-features { list-style: none; margin-bottom: 32px; }
+.pricing-features li {
+  display: flex; align-items: center; gap: 10px;
+  font-size: 14px; padding: 7px 0;
+  color: var(--muted);
+}
+.pricing-features li::before {
+  content: "✓";
+  color: var(--accent); font-weight: 700;
+  flex-shrink: 0;
+}
+
+/* ABOUT */
+#about { background: var(--surface); }
+.about-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 80px; align-items: center; }
+.about-visual {
+  background: var(--black);
+  border-radius: 12px; border: 1px solid var(--border);
+  padding: 40px; position: relative; overflow: hidden;
+}
+.about-visual::before {
+  content: "";
+  position: absolute; top: -80px; right: -80px;
+  width: 300px; height: 300px;
+  background: radial-gradient(circle, rgba(0,229,160,0.1) 0%, transparent 70%);
+}
+.about-initials {
+  font-family: 'Syne', sans-serif;
+  font-size: 80px; font-weight: 800;
+  color: var(--accent); opacity: 0.15;
+  line-height: 1; margin-bottom: 24px;
+}
+.about-stat-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+.about-stat {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 6px; padding: 20px 16px;
+}
+.about-stat-val {
+  font-family: 'Syne', sans-serif;
+  font-size: 28px; font-weight: 800;
+  color: var(--accent); margin-bottom: 4px;
+}
+.about-stat-label { font-size: 12px; color: var(--muted); }
+.about-text .section-sub { margin-bottom: 32px; }
+.about-bio {
+  font-size: 15px; color: var(--muted);
+  line-height: 1.8; margin-bottom: 28px;
+}
+.skills-list { display: flex; flex-wrap: wrap; gap: 8px; }
+
+/* CTA */
+#contact {
+  background: var(--black);
+  text-align: center;
+  padding: 120px 48px;
+  position: relative; overflow: hidden;
+}
+#contact::before {
+  content: "";
+  position: absolute; top: 50%; left: 50%; transform: translate(-50%,-50%);
+  width: 800px; height: 400px;
+  background: radial-gradient(ellipse, rgba(0,229,160,0.06) 0%, transparent 70%);
+  pointer-events: none;
+}
+.cta-title {
+  font-family: 'Syne', sans-serif;
+  font-size: clamp(40px, 6vw, 80px);
+  font-weight: 800; letter-spacing: -2px;
+  line-height: 1.05; margin-bottom: 20px;
+}
+.cta-title em { font-style: normal; color: var(--accent); }
+.cta-sub { font-size: 17px; color: var(--muted); margin-bottom: 44px; }
+.cta-email {
+  font-family: 'DM Mono', monospace;
+  font-size: 14px; color: var(--accent);
+  text-decoration: none; display: block;
+  margin-top: 28px;
+  transition: opacity 0.2s;
+}
+.cta-email:hover { opacity: 0.7; }
+
+/* FOOTER */
+footer {
+  border-top: 1px solid var(--border);
+  padding: 28px 48px;
+  display: flex; align-items: center; justify-content: space-between;
+  background: var(--surface);
+}
+.footer-logo {
+  font-family: 'Syne', sans-serif;
+  font-size: 14px; font-weight: 700; color: var(--muted);
+}
+.footer-logo span { color: var(--accent); }
+.footer-copy { font-size: 12px; color: var(--muted); }
+
+/* SCROLL REVEAL */
+.reveal { opacity: 0; transform: translateY(32px); transition: opacity 0.7s ease, transform 0.7s ease; }
+.reveal.visible { opacity: 1; transform: translateY(0); }
+
+@media (max-width: 900px) {
+  nav { padding: 16px 24px; }
+  .nav-links { display: none; }
+  section { padding: 72px 24px; }
+  .hero { padding: 100px 24px 60px; }
+  .hero h1 { font-size: 48px; }
+  .services-grid, .process-steps, .pricing-grid { grid-template-columns: 1fr; }
+  .project-feature, .about-grid { grid-template-columns: 1fr; gap: 40px; }
+  .hero-stats { gap: 24px; }
+  footer { flex-direction: column; gap: 12px; text-align: center; }
+}
+</style>
+</head>
+<body>
+
+<div class="cursor" id="cursor"></div>
+<div class="cursor-ring" id="cursorRing"></div>
+
+<!-- NAV -->
+<nav>
+  <a href="#" class="nav-logo">Just<span>Connect</span></a>
+  <ul class="nav-links">
+    <li><a href="#services">Services</a></li>
+    <li><a href="#project">Work</a></li>
+    <li><a href="#pricing">Pricing</a></li>
+    <li><a href="#about">About</a></li>
+  </ul>
+  <a href="mailto:janice@justconnectsolutions.com" class="nav-cta">Get in touch</a>
+</nav>
+
+<!-- HERO -->
+<section class="hero" id="home">
+  <div class="hero-grid"></div>
+  <div class="hero-glow"></div>
+  <div class="hero-tag">Available for new projects</div>
+  <h1>Build smarter.<br><em>Automate everything.</em></h1>
+  <p class="hero-sub">Just Connect Solutions helps businesses simplify operations, reduce manual work, and improve efficiency through practical AI tools, automations, and digital workflows.</p>
+  <div class="hero-actions">
+    <a href="mailto:janice@justconnectsolutions.com" class="btn-primary">Start a project</a>
+    <a href="#project" class="btn-ghost">View work →</a>
+  </div>
+  <div class="hero-stats">
+    <div>
+      <div class="hero-stat-num">3</div>
+      <div class="hero-stat-label">Apps delivered</div>
+    </div>
+    <div>
+      <div class="hero-stat-num">AI</div>
+      <div class="hero-stat-label">Powered tools</div>
+    </div>
+    <div>
+      <div class="hero-stat-num">$0</div>
+      <div class="hero-stat-label">Hidden fees</div>
+    </div>
+    <div>
+      <div class="hero-stat-num">WW</div>
+      <div class="hero-stat-label">Remote worldwide</div>
+    </div>
+  </div>
+</section>
+
+<!-- SERVICES -->
+<section id="services">
+  <div class="reveal">
+    <div class="section-tag">// what I build</div>
+    <h2 class="section-title">Services</h2>
+    <p class="section-sub">Real-world systems that save time, improve customer experience, and help businesses scale without increasing workload.</p>
+  </div>
+  <div class="services-grid reveal">
+    <div class="service-card">
+      <div class="service-num">01</div>
+      <div class="service-icon">⚡</div>
+      <div class="service-title">AI-Powered Tools</div>
+      <p class="service-desc">Custom AI integrations that automate decisions, generate insights, and reduce manual work — built with Claude, OpenAI, and modern LLM APIs.</p>
+      <div class="service-tags">
+        <span class="tag">Claude API</span>
+        <span class="tag">Automation</span>
+        <span class="tag">LLM</span>
+      </div>
+    </div>
+    <div class="service-card">
+      <div class="service-num">02</div>
+      <div class="service-icon">📱</div>
+      <div class="service-title">Web & App Development</div>
+      <p class="service-desc">Full-stack web apps and progressive web apps that work on any device. From admin dashboards to customer-facing mobile experiences.</p>
+      <div class="service-tags">
+        <span class="tag">React</span>
+        <span class="tag">Supabase</span>
+        <span class="tag">PWA</span>
+      </div>
+    </div>
+    <div class="service-card">
+      <div class="service-num">03</div>
+      <div class="service-icon">🔄</div>
+      <div class="service-title">Digital Workflows</div>
+      <p class="service-desc">End-to-end automation systems — booking flows, staff portals, inventory management, invoicing — all connected and talking to each other.</p>
+      <div class="service-tags">
+        <span class="tag">CMS</span>
+        <span class="tag">Integrations</span>
+        <span class="tag">Vercel</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- PROJECT -->
+<section id="project">
+  <div class="reveal">
+    <div class="section-tag">// featured work</div>
+    <h2 class="section-title">Rise & Set Café CMS</h2>
+    <p class="section-sub">A full-stack management system built from scratch — three interconnected apps sharing a live Supabase database.</p>
+  </div>
+  <div class="project-feature reveal">
+    <div class="project-screens">
+      <div class="screen-mockup">
+        <div class="screen-bar">
+          <div class="screen-dot" style="background:#ff5f57"></div>
+          <div class="screen-dot" style="background:#febc2e"></div>
+          <div class="screen-dot" style="background:#28c840"></div>
+        </div>
+        <div class="screen-body">
+          <div class="screen-sidebar">
+            <div class="screen-nav-item active"></div>
+            <div class="screen-nav-item" style="width:85%"></div>
+            <div class="screen-nav-item" style="width:60%"></div>
+            <div class="screen-nav-item" style="width:75%"></div>
+            <div class="screen-nav-item" style="width:50%"></div>
+          </div>
+          <div class="screen-main">
+            <div class="screen-stat-row">
+              <div class="screen-stat"><div class="screen-stat-val"></div><div class="screen-stat-label"></div></div>
+              <div class="screen-stat"><div class="screen-stat-val" style="width:80%;opacity:0.5"></div><div class="screen-stat-label"></div></div>
+              <div class="screen-stat"><div class="screen-stat-val" style="width:50%;opacity:0.4"></div><div class="screen-stat-label"></div></div>
+              <div class="screen-stat"><div class="screen-stat-val" style="background:rgba(220,80,80,0.7);width:40%"></div><div class="screen-stat-label"></div></div>
+            </div>
+            <div class="screen-table">
+              <div class="screen-table-row">
+                <div class="screen-cell" style="width:30%;flex-shrink:0"></div>
+                <div class="screen-cell" style="width:20%;flex-shrink:0"></div>
+                <div style="flex:1"></div>
+                <div class="screen-badge"></div>
+              </div>
+              <div class="screen-table-row">
+                <div class="screen-cell" style="width:25%;flex-shrink:0"></div>
+                <div class="screen-cell" style="width:18%;flex-shrink:0"></div>
+                <div style="flex:1"></div>
+                <div class="screen-badge red"></div>
+              </div>
+              <div class="screen-table-row">
+                <div class="screen-cell" style="width:35%;flex-shrink:0"></div>
+                <div class="screen-cell" style="width:22%;flex-shrink:0"></div>
+                <div style="flex:1"></div>
+                <div class="screen-badge yellow"></div>
+              </div>
+              <div class="screen-table-row">
+                <div class="screen-cell" style="width:28%;flex-shrink:0"></div>
+                <div class="screen-cell" style="width:16%;flex-shrink:0"></div>
+                <div style="flex:1"></div>
+                <div class="screen-badge"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="project-info">
+      <div class="project-number">Project 001 — 2026</div>
+      <div class="project-title">3 apps.<br>1 database.<br>Fully connected.</div>
+      <p class="project-desc">Built a complete operations platform for a café — admin CMS, employee portal, and customer-facing app — all sharing a live Supabase database with real-time updates.</p>
+      <ul class="project-features">
+        <li>Admin CMS with inventory, rostering, invoicing & reservations</li>
+        <li>AI-powered smart ordering using Claude API — analyses stock, sales velocity & staff flags</li>
+        <li>Employee app with shifts, task checklists & purchase flagging</li>
+        <li>Client app with menu, reservations, loyalty rewards & order history</li>
+        <li>Real-time data sync — client bookings appear instantly in admin</li>
+        <li>Deployed on Vercel with Supabase backend & Row Level Security</li>
+      </ul>
+      <div class="tech-stack">
+        <span class="tag">React</span>
+        <span class="tag">Supabase</span>
+        <span class="tag">Claude API</span>
+        <span class="tag">Vercel</span>
+        <span class="tag">PostgreSQL</span>
+        <span class="tag">PWA</span>
+      </div>
+      <a href="mailto:janice@justconnectsolutions.com" class="btn-primary">Request a similar build</a>
+    </div>
+  </div>
+</section>
+
+<!-- PROCESS -->
+<section id="process">
+  <div class="reveal">
+    <div class="section-tag">// how it works</div>
+    <h2 class="section-title">My process</h2>
+    <p class="section-sub">Simple, transparent, and built around your business needs — not unnecessary complexity.</p>
+  </div>
+  <div class="process-steps reveal">
+    <div class="process-step">
+      <div class="process-step-num">01</div>
+      <div class="process-step-title">Discovery</div>
+      <p class="process-step-desc">We talk through your current workflow, where time is being lost, and what the end result needs to look like.</p>
+    </div>
+    <div class="process-step">
+      <div class="process-step-num">02</div>
+      <div class="process-step-title">Design & Prototype</div>
+      <p class="process-step-desc">I build a working prototype fast so you can see and interact with the idea before any final decisions are made.</p>
+    </div>
+    <div class="process-step">
+      <div class="process-step-num">03</div>
+      <div class="process-step-title">Build & Connect</div>
+      <p class="process-step-desc">Full development — frontend, backend, database, AI integrations, and third-party connections all wired together.</p>
+    </div>
+    <div class="process-step">
+      <div class="process-step-num">04</div>
+      <div class="process-step-title">Deploy & Hand off</div>
+      <p class="process-step-desc">Deployed to a live URL, fully documented, and handed over with clear instructions so you can manage it yourself.</p>
+    </div>
+  </div>
+</section>
+
+<!-- PRICING -->
+<section id="pricing">
+  <div class="reveal">
+    <div class="section-tag">// investment</div>
+    <h2 class="section-title">Simple pricing</h2>
+    <p class="section-sub">Transparent, fixed-price projects. No hourly surprises, no hidden extras.</p>
+  </div>
+  <div class="pricing-grid reveal">
+    <div class="pricing-card">
+      <div class="pricing-name">Starter</div>
+      <div class="pricing-price"><span>$</span>199</div>
+      <div class="pricing-period">per project</div>
+      <div class="pricing-divider"></div>
+      <ul class="pricing-features">
+        <li>Single-page web app or landing page</li>
+        <li>Mobile responsive design</li>
+        <li>Contact form or booking form</li>
+        <li>Deployed to live URL</li>
+        <li>1 round of revisions</li>
+      </ul>
+      <a href="mailto:janice@justconnectsolutions.com" class="btn-ghost" style="display:block;text-align:center;padding:13px;">Get started</a>
+    </div>
+    <div class="pricing-card featured">
+      <div class="pricing-featured-badge">Most popular</div>
+      <div class="pricing-name">Growth</div>
+      <div class="pricing-price"><span>$</span>399</div>
+      <div class="pricing-period">per project</div>
+      <div class="pricing-divider"></div>
+      <ul class="pricing-features">
+        <li>Multi-page web or mobile app</li>
+        <li>Database integration (Supabase)</li>
+        <li>User login & authentication</li>
+        <li>Admin dashboard included</li>
+        <li>AI feature (smart suggestions, automation)</li>
+        <li>2 rounds of revisions</li>
+      </ul>
+      <a href="mailto:janice@justconnectsolutions.com" class="btn-primary" style="display:block;text-align:center;">Get started</a>
+    </div>
+    <div class="pricing-card">
+      <div class="pricing-name">Custom</div>
+      <div class="pricing-price" style="font-size:36px;letter-spacing:-1px">Let's talk</div>
+      <div class="pricing-period">scoped to your needs</div>
+      <div class="pricing-divider"></div>
+      <ul class="pricing-features">
+        <li>Multiple connected apps</li>
+        <li>Complex AI integrations</li>
+        <li>Third-party API connections</li>
+        <li>Email & SMS automations</li>
+        <li>Staff training & documentation</li>
+        <li>Ongoing support available</li>
+      </ul>
+      <a href="mailto:janice@justconnectsolutions.com" class="btn-ghost" style="display:block;text-align:center;padding:13px;">Contact me</a>
+    </div>
+  </div>
+</section>
+
+<!-- ABOUT -->
+<section id="about">
+  <div class="about-grid reveal">
+    <div class="about-visual">
+      <div class="about-initials">JCS</div>
+      <div class="about-stat-grid">
+        <div class="about-stat">
+          <div class="about-stat-val">3</div>
+          <div class="about-stat-label">Apps built</div>
+        </div>
+        <div class="about-stat">
+          <div class="about-stat-val">AI</div>
+          <div class="about-stat-label">Integrated</div>
+        </div>
+        <div class="about-stat">
+          <div class="about-stat-val">WW</div>
+          <div class="about-stat-label">Remote clients</div>
+        </div>
+        <div class="about-stat">
+          <div class="about-stat-val">∞</div>
+          <div class="about-stat-label">Problems solved</div>
+        </div>
+      </div>
+    </div>
+    <div class="about-text">
+      <div class="section-tag">// about</div>
+      <h2 class="section-title">Just Connect<br>Solutions</h2>
+      <p class="about-bio">Just Connect Solutions helps businesses simplify operations, reduce manual work, and improve efficiency through practical AI tools, automations, and digital workflows.</p>
+      <p class="about-bio">I focus on creating real-world automation systems that save time, improve customer experience, and help businesses scale without increasing workload — delivered at a price that makes sense for small and growing businesses.</p>
+      <div class="skills-list">
+        <span class="tag">React</span>
+        <span class="tag">Supabase</span>
+        <span class="tag">Claude API</span>
+        <span class="tag">Vercel</span>
+        <span class="tag">PostgreSQL</span>
+        <span class="tag">PWA</span>
+        <span class="tag">Git & GitHub</span>
+        <span class="tag">REST APIs</span>
+        <span class="tag">Automation</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- CTA -->
+<section id="contact">
+  <div class="reveal">
+    <div class="cta-title">Ready to <em>automate</em><br>your business?</div>
+    <p class="cta-sub">Let's talk about what you're trying to solve. No jargon, no pressure.</p>
+    <a href="mailto:janice@justconnectsolutions.com" class="btn-primary" style="font-size:16px;padding:16px 44px;">Start a conversation</a>
+    <a href="mailto:janice@justconnectsolutions.com" class="cta-email">janice@justconnectsolutions.com</a>
+  </div>
+</section>
+
+<!-- FOOTER -->
+<footer>
+  <div class="footer-logo">Just<span>Connect</span> Solutions</div>
+  <div class="footer-copy">© 2026 Just Connect Solutions · Remote worldwide</div>
+</footer>
+
+<script>
+const cursor = document.getElementById('cursor');
+const ring = document.getElementById('cursorRing');
+let mx = 0, my = 0, rx = 0, ry = 0;
+
+document.addEventListener('mousemove', e => {
+  mx = e.clientX; my = e.clientY;
+  cursor.style.left = mx - 5 + 'px';
+  cursor.style.top = my - 5 + 'px';
+});
+
+function animateRing() {
+  rx += (mx - rx - 18) * 0.12;
+  ry += (my - ry - 18) * 0.12;
+  ring.style.left = rx + 'px';
+  ring.style.top = ry + 'px';
+  requestAnimationFrame(animateRing);
+}
+animateRing();
+
+document.querySelectorAll('a, button').forEach(el => {
+  el.addEventListener('mouseenter', () => {
+    cursor.style.transform = 'scale(2.5)';
+    ring.style.transform = 'scale(1.5)';
+    ring.style.opacity = '0.2';
+  });
+  el.addEventListener('mouseleave', () => {
+    cursor.style.transform = 'scale(1)';
+    ring.style.transform = 'scale(1)';
+    ring.style.opacity = '0.5';
+  });
+});
+
+const reveals = document.querySelectorAll('.reveal');
+const observer = new IntersectionObserver(entries => {
+  entries.forEach(e => { if (e.isIntersecting) { e.target.classList.add('visible'); } });
+}, { threshold: 0.1 });
+reveals.forEach(r => observer.observe(r));
+</script>
+</body>
+</html>
