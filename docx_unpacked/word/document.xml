@@ -1,0 +1,5132 @@
+<?xml version="1.0" encoding="UTF-8"?><w:document xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex" xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex" xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex" xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex" xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex" xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex" xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex" xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex" xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:aink="http://schemas.microsoft.com/office/drawing/2016/ink" xmlns:am3d="http://schemas.microsoft.com/office/drawing/2017/model3d" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:oel="http://schemas.microsoft.com/office/2019/extlst" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:w16cex="http://schemas.microsoft.com/office/word/2018/wordml/cex" xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid" xmlns:w16="http://schemas.microsoft.com/office/word/2018/wordml" xmlns:w16du="http://schemas.microsoft.com/office/word/2023/wordml/word16du" xmlns:w16sdtdh="http://schemas.microsoft.com/office/word/2020/wordml/sdtdatahash" xmlns:w16sdtfl="http://schemas.microsoft.com/office/word/2024/wordml/sdtformatlock" xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" mc:Ignorable="w14 w15 w16se w16cid w16 w16cex w16sdtdh w16sdtfl w16du wp14">
+  <w:body>
+    <w:p w14:paraId="06B3C43F" w14:textId="12DF4397" w:rsidR="00285351" w:rsidRDefault="00285351" w:rsidP="00285351">
+      <w:pPr>
+        <w:spacing w:after="40"/>
+        <w:jc w:val="center"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:noProof/>
+          <w:color w:val="AEC6CF"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+        </w:rPr>
+        <w:drawing>
+          <wp:inline distT="0" distB="0" distL="0" distR="0" wp14:anchorId="1A30B659" wp14:editId="59D03A8A">
+            <wp:extent cx="6391275" cy="1933575"/>
+            <wp:effectExtent l="0" t="0" r="9525" b="9525"/>
+            <wp:docPr id="946786395" name="Picture 2"/>
+            <wp:cNvGraphicFramePr>
+              <a:graphicFrameLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" noChangeAspect="1"/>
+            </wp:cNvGraphicFramePr>
+            <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+              <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                <pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                  <pic:nvPicPr>
+                    <pic:cNvPr id="0" name="Picture 2"/>
+                    <pic:cNvPicPr>
+                      <a:picLocks noChangeAspect="1" noChangeArrowheads="1"/>
+                    </pic:cNvPicPr>
+                  </pic:nvPicPr>
+                  <pic:blipFill>
+                    <a:blip r:embed="rId7">
+                      <a:extLst>
+                        <a:ext uri="{28A0092B-C50C-407E-A947-70E740481C1C}">
+                          <a14:useLocalDpi xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main" val="0"/>
+                        </a:ext>
+                      </a:extLst>
+                    </a:blip>
+                    <a:srcRect/>
+                    <a:stretch>
+                      <a:fillRect/>
+                    </a:stretch>
+                  </pic:blipFill>
+                  <pic:spPr bwMode="auto">
+                    <a:xfrm>
+                      <a:off x="0" y="0"/>
+                      <a:ext cx="6391275" cy="1933575"/>
+                    </a:xfrm>
+                    <a:prstGeom prst="rect">
+                      <a:avLst/>
+                    </a:prstGeom>
+                    <a:noFill/>
+                    <a:ln>
+                      <a:noFill/>
+                    </a:ln>
+                  </pic:spPr>
+                </pic:pic>
+              </a:graphicData>
+            </a:graphic>
+          </wp:inline>
+        </w:drawing>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:i/>
+          <w:iCs/>
+          <w:color w:val="0D47A1"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+        <w:t>AI &amp; Automation Solutions for Small Business</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="31D0CAB8" w14:textId="77777777" w:rsidR="00A2572D" w:rsidRDefault="00A2572D" w:rsidP="00A2572D">
+      <w:pPr>
+        <w:pStyle w:val="Heading1"/>
+        <w:jc w:val="center"/>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="5890C68D" w14:textId="77777777" w:rsidR="002B4471" w:rsidRDefault="002B4471">
+      <w:pPr>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="22B573"/>
+          <w:sz w:val="32"/>
+          <w:szCs w:val="32"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="2F010B78" w14:textId="77777777" w:rsidR="00FE6D44" w:rsidRDefault="00FE6D44" w:rsidP="00FE6D44">
+      <w:pPr>
+        <w:spacing w:after="40"/>
+        <w:jc w:val="center"/>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="22B573"/>
+          <w:sz w:val="36"/>
+          <w:szCs w:val="36"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="6B9D2F75" w14:textId="77777777" w:rsidR="00FE6D44" w:rsidRDefault="00FE6D44" w:rsidP="00FE6D44">
+      <w:pPr>
+        <w:spacing w:after="40"/>
+        <w:jc w:val="center"/>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="22B573"/>
+          <w:sz w:val="36"/>
+          <w:szCs w:val="36"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="17F6C73A" w14:textId="77777777" w:rsidR="00FE6D44" w:rsidRDefault="00FE6D44" w:rsidP="00FE6D44">
+      <w:pPr>
+        <w:spacing w:after="40"/>
+        <w:jc w:val="center"/>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="22B573"/>
+          <w:sz w:val="36"/>
+          <w:szCs w:val="36"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="35F29C8E" w14:textId="083297D0" w:rsidR="00FE6D44" w:rsidRPr="00FE6D44" w:rsidRDefault="00FE6D44" w:rsidP="00FE6D44">
+      <w:pPr>
+        <w:spacing w:after="40"/>
+        <w:jc w:val="center"/>
+        <w:rPr>
+          <w:color w:val="22B573"/>
+          <w:sz w:val="40"/>
+          <w:szCs w:val="40"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="22B573"/>
+          <w:sz w:val="40"/>
+          <w:szCs w:val="40"/>
+        </w:rPr>
+        <w:t>BUSINESS PORTFOLIO</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="376CC569" w14:textId="77777777" w:rsidR="00FE6D44" w:rsidRDefault="00FE6D44" w:rsidP="00FE6D44">
+      <w:pPr>
+        <w:spacing w:before="60"/>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="1DC4CD7C" w14:textId="77777777" w:rsidR="00FE6D44" w:rsidRDefault="00FE6D44" w:rsidP="00FE6D44">
+      <w:pPr>
+        <w:spacing w:before="60"/>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="3A7327AD" w14:textId="77777777" w:rsidR="00FE6D44" w:rsidRDefault="00FE6D44" w:rsidP="00FE6D44">
+      <w:pPr>
+        <w:spacing w:before="60"/>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="62DE0E1B" w14:textId="77777777" w:rsidR="00FE6D44" w:rsidRDefault="00FE6D44" w:rsidP="00FE6D44">
+      <w:pPr>
+        <w:pBdr>
+          <w:bottom w:val="single" w:sz="6" w:space="4" w:color="0F7B6C"/>
+        </w:pBdr>
+        <w:spacing w:after="240"/>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="4F1E932E" w14:textId="77777777" w:rsidR="007E0137" w:rsidRDefault="007E0137" w:rsidP="00FE6D44">
+      <w:pPr>
+        <w:pBdr>
+          <w:bottom w:val="single" w:sz="6" w:space="4" w:color="0F7B6C"/>
+        </w:pBdr>
+        <w:spacing w:after="240"/>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="3C471833" w14:textId="77777777" w:rsidR="007E0137" w:rsidRDefault="007E0137" w:rsidP="00FE6D44">
+      <w:pPr>
+        <w:pBdr>
+          <w:bottom w:val="single" w:sz="6" w:space="4" w:color="0F7B6C"/>
+        </w:pBdr>
+        <w:spacing w:after="240"/>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="33F2EF85" w14:textId="77777777" w:rsidR="007E0137" w:rsidRDefault="007E0137" w:rsidP="00FE6D44">
+      <w:pPr>
+        <w:pBdr>
+          <w:bottom w:val="single" w:sz="6" w:space="4" w:color="0F7B6C"/>
+        </w:pBdr>
+        <w:spacing w:after="240"/>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="491E3C3A" w14:textId="77777777" w:rsidR="007E0137" w:rsidRDefault="007E0137" w:rsidP="00FE6D44">
+      <w:pPr>
+        <w:pBdr>
+          <w:bottom w:val="single" w:sz="6" w:space="4" w:color="0F7B6C"/>
+        </w:pBdr>
+        <w:spacing w:after="240"/>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="2681B80C" w14:textId="77777777" w:rsidR="007E0137" w:rsidRDefault="007E0137" w:rsidP="00FE6D44">
+      <w:pPr>
+        <w:pBdr>
+          <w:bottom w:val="single" w:sz="6" w:space="4" w:color="0F7B6C"/>
+        </w:pBdr>
+        <w:spacing w:after="240"/>
+      </w:pPr>
+    </w:p>
+    <w:tbl>
+      <w:tblPr>
+        <w:tblW w:w="9026" w:type="dxa"/>
+        <w:tblBorders>
+          <w:insideH w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+          <w:insideV w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+        </w:tblBorders>
+        <w:tblCellMar>
+          <w:left w:w="10" w:type="dxa"/>
+          <w:right w:w="10" w:type="dxa"/>
+        </w:tblCellMar>
+        <w:tblLook w:val="0000" w:firstRow="0" w:lastRow="0" w:firstColumn="0" w:lastColumn="0" w:noHBand="0" w:noVBand="0"/>
+      </w:tblPr>
+      <w:tblGrid>
+        <w:gridCol w:w="3000"/>
+        <w:gridCol w:w="6026"/>
+      </w:tblGrid>
+      <w:tr w:rsidR="00FE6D44" w14:paraId="7DB4DB46" w14:textId="77777777" w:rsidTr="00794F79">
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="3000" w:type="dxa"/>
+            <w:tcBorders>
+              <w:top w:val="single" w:sz="1" w:space="0" w:color="FFFFFF"/>
+              <w:left w:val="single" w:sz="1" w:space="0" w:color="FFFFFF"/>
+              <w:bottom w:val="single" w:sz="1" w:space="0" w:color="FFFFFF"/>
+              <w:right w:val="single" w:sz="1" w:space="0" w:color="FFFFFF"/>
+            </w:tcBorders>
+          </w:tcPr>
+          <w:p w14:paraId="7BD00E27" w14:textId="77777777" w:rsidR="00FE6D44" w:rsidRDefault="00FE6D44" w:rsidP="00794F79">
+            <w:r>
+              <w:rPr>
+                <w:color w:val="6B6B6B"/>
+              </w:rPr>
+              <w:t>Prepared for:</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="6026" w:type="dxa"/>
+            <w:tcBorders>
+              <w:top w:val="single" w:sz="1" w:space="0" w:color="FFFFFF"/>
+              <w:left w:val="single" w:sz="1" w:space="0" w:color="FFFFFF"/>
+              <w:bottom w:val="single" w:sz="1" w:space="0" w:color="FFFFFF"/>
+              <w:right w:val="single" w:sz="1" w:space="0" w:color="FFFFFF"/>
+            </w:tcBorders>
+          </w:tcPr>
+          <w:p w14:paraId="77BBE108" w14:textId="77777777" w:rsidR="00FE6D44" w:rsidRDefault="00FE6D44" w:rsidP="00794F79">
+            <w:r>
+              <w:t>&lt;Company Name&gt;</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr w:rsidR="00FE6D44" w14:paraId="36C9FD8A" w14:textId="77777777" w:rsidTr="00794F79">
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="3000" w:type="dxa"/>
+            <w:tcBorders>
+              <w:top w:val="single" w:sz="1" w:space="0" w:color="FFFFFF"/>
+              <w:left w:val="single" w:sz="1" w:space="0" w:color="FFFFFF"/>
+              <w:bottom w:val="single" w:sz="1" w:space="0" w:color="FFFFFF"/>
+              <w:right w:val="single" w:sz="1" w:space="0" w:color="FFFFFF"/>
+            </w:tcBorders>
+          </w:tcPr>
+          <w:p w14:paraId="1E4D17E0" w14:textId="77777777" w:rsidR="00FE6D44" w:rsidRDefault="00FE6D44" w:rsidP="00794F79">
+            <w:r>
+              <w:rPr>
+                <w:color w:val="6B6B6B"/>
+              </w:rPr>
+              <w:t>Prepared by</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="6026" w:type="dxa"/>
+            <w:tcBorders>
+              <w:top w:val="single" w:sz="1" w:space="0" w:color="FFFFFF"/>
+              <w:left w:val="single" w:sz="1" w:space="0" w:color="FFFFFF"/>
+              <w:bottom w:val="single" w:sz="1" w:space="0" w:color="FFFFFF"/>
+              <w:right w:val="single" w:sz="1" w:space="0" w:color="FFFFFF"/>
+            </w:tcBorders>
+          </w:tcPr>
+          <w:p w14:paraId="0E99A134" w14:textId="77777777" w:rsidR="00FE6D44" w:rsidRDefault="00FE6D44" w:rsidP="00794F79">
+            <w:r>
+              <w:rPr>
+                <w:b/>
+                <w:bCs/>
+              </w:rPr>
+              <w:t>Just Connect Solutions — AI &amp; Automation Specialists</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr w:rsidR="00FE6D44" w14:paraId="2A9FAA78" w14:textId="77777777" w:rsidTr="00794F79">
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="3000" w:type="dxa"/>
+            <w:tcBorders>
+              <w:top w:val="single" w:sz="1" w:space="0" w:color="FFFFFF"/>
+              <w:left w:val="single" w:sz="1" w:space="0" w:color="FFFFFF"/>
+              <w:bottom w:val="single" w:sz="1" w:space="0" w:color="FFFFFF"/>
+              <w:right w:val="single" w:sz="1" w:space="0" w:color="FFFFFF"/>
+            </w:tcBorders>
+          </w:tcPr>
+          <w:p w14:paraId="7E107311" w14:textId="77777777" w:rsidR="00FE6D44" w:rsidRDefault="00FE6D44" w:rsidP="00794F79">
+            <w:r>
+              <w:rPr>
+                <w:color w:val="6B6B6B"/>
+              </w:rPr>
+              <w:t>Date</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="6026" w:type="dxa"/>
+            <w:tcBorders>
+              <w:top w:val="single" w:sz="1" w:space="0" w:color="FFFFFF"/>
+              <w:left w:val="single" w:sz="1" w:space="0" w:color="FFFFFF"/>
+              <w:bottom w:val="single" w:sz="1" w:space="0" w:color="FFFFFF"/>
+              <w:right w:val="single" w:sz="1" w:space="0" w:color="FFFFFF"/>
+            </w:tcBorders>
+          </w:tcPr>
+          <w:p w14:paraId="581B4E82" w14:textId="77777777" w:rsidR="00FE6D44" w:rsidRDefault="00FE6D44" w:rsidP="00794F79">
+            <w:r>
+              <w:t>&lt;Date Created&gt;</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr w:rsidR="00FE6D44" w14:paraId="19915950" w14:textId="77777777" w:rsidTr="00794F79">
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="3000" w:type="dxa"/>
+            <w:tcBorders>
+              <w:top w:val="single" w:sz="1" w:space="0" w:color="FFFFFF"/>
+              <w:left w:val="single" w:sz="1" w:space="0" w:color="FFFFFF"/>
+              <w:bottom w:val="single" w:sz="1" w:space="0" w:color="FFFFFF"/>
+              <w:right w:val="single" w:sz="1" w:space="0" w:color="FFFFFF"/>
+            </w:tcBorders>
+          </w:tcPr>
+          <w:p w14:paraId="4A5B7DE2" w14:textId="34FE4036" w:rsidR="00FE6D44" w:rsidRDefault="00FE6D44" w:rsidP="00794F79">
+            <w:r>
+              <w:br w:type="page"/>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:color w:val="6B6B6B"/>
+              </w:rPr>
+              <w:t>Valid until</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="6026" w:type="dxa"/>
+            <w:tcBorders>
+              <w:top w:val="single" w:sz="1" w:space="0" w:color="FFFFFF"/>
+              <w:left w:val="single" w:sz="1" w:space="0" w:color="FFFFFF"/>
+              <w:bottom w:val="single" w:sz="1" w:space="0" w:color="FFFFFF"/>
+              <w:right w:val="single" w:sz="1" w:space="0" w:color="FFFFFF"/>
+            </w:tcBorders>
+          </w:tcPr>
+          <w:p w14:paraId="32F91B19" w14:textId="77777777" w:rsidR="00FE6D44" w:rsidRDefault="00FE6D44" w:rsidP="00794F79">
+            <w:r>
+              <w:t>&lt;One month after Creation Date&gt;</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+    </w:tbl>
+    <w:p w14:paraId="036D04AF" w14:textId="77777777" w:rsidR="009D0CDA" w:rsidRPr="00974A51" w:rsidRDefault="009D0CDA" w:rsidP="00A2572D">
+      <w:pPr>
+        <w:pStyle w:val="Heading1"/>
+        <w:jc w:val="center"/>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="22B573"/>
+          <w:sz w:val="24"/>
+          <w:szCs w:val="24"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="1EB9432B" w14:textId="77777777" w:rsidR="00FE6D44" w:rsidRDefault="00FE6D44">
+      <w:pPr>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0D47A1"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0D47A1"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:br w:type="page"/>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="5F99E7C5" w14:textId="55CFC2A6" w:rsidR="00B677C8" w:rsidRDefault="00000000" w:rsidP="00BB589C">
+      <w:pPr>
+        <w:pBdr>
+          <w:bottom w:val="single" w:sz="10" w:space="1" w:color="00B4D8"/>
+        </w:pBdr>
+        <w:tabs>
+          <w:tab w:val="left" w:pos="4095"/>
+        </w:tabs>
+        <w:spacing w:before="300" w:after="60"/>
+        <w:rPr>
+          <w:color w:val="0D47A1"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0D47A1"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:lastRenderedPageBreak/>
+        <w:t>Who We Are</w:t>
+      <w:tab/></w:r>
+      
+    </w:p>
+    <w:p w14:paraId="376B415C" w14:textId="77777777" w:rsidR="00A711A1" w:rsidRDefault="00A711A1" w:rsidP="00A711A1">
+      <w:pPr>
+        <w:spacing w:before="80" w:after="80"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Just Connect Solutions helps businesses simplify operations, reduce manual work, and improve efficiency through practical AI tools, automations, and digital workflows.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="28B72C42" w14:textId="77777777" w:rsidR="00A711A1" w:rsidRDefault="00A711A1" w:rsidP="00A711A1">
+      <w:pPr>
+        <w:spacing w:before="80" w:after="80"/>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="27690591" w14:textId="16299E8B" w:rsidR="009D0CDA" w:rsidRDefault="00A711A1" w:rsidP="00A711A1">
+      <w:pPr>
+        <w:spacing w:before="80" w:after="80"/>
+      </w:pPr>
+      <w:r>
+        <w:t>We focus on creating real-world automation systems that save time, improve customer experience, and help businesses scale without increasing workload.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="02DA2A67" w14:textId="2D2FD9A9" w:rsidR="00E66432" w:rsidRPr="00A711A1" w:rsidRDefault="00BE1498" w:rsidP="00E66432">
+      <w:pPr>
+        <w:pBdr>
+          <w:bottom w:val="single" w:sz="10" w:space="1" w:color="00B4D8"/>
+        </w:pBdr>
+        <w:spacing w:before="300" w:after="60"/>
+        <w:rPr>
+          <w:color w:val="0D47A1"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0D47A1"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t>How We Help Your Business</w:t>
+      </w:r>
+      
+    </w:p>
+    <w:p w14:paraId="69E3E666" w14:textId="2F39DC8B" w:rsidR="00427DDF" w:rsidRPr="00EA1DFC" w:rsidRDefault="00427DDF" w:rsidP="00427DDF">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="6"/>
+        </w:numPr>
+        <w:spacing w:after="160" w:line="276" w:lineRule="auto"/>
+        <w:contextualSpacing/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+        </w:rPr>
+        <w:t>We help your business stop losing money due to missed manual processes</w:t>
+      </w:r>
+      
+    </w:p>
+    <w:p w14:paraId="670AB5E9" w14:textId="555881D7" w:rsidR="00427DDF" w:rsidRPr="00EA1DFC" w:rsidRDefault="00427DDF" w:rsidP="00427DDF">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="6"/>
+        </w:numPr>
+        <w:spacing w:after="160" w:line="276" w:lineRule="auto"/>
+        <w:contextualSpacing/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+        </w:rPr>
+        <w:t>We can improve visibility of the company&#x2019;s daily performance</w:t>
+      </w:r>
+      
+    </w:p>
+    <w:p w14:paraId="20F1AA33" w14:textId="772467C4" w:rsidR="00427DDF" w:rsidRPr="00EA1DFC" w:rsidRDefault="00427DDF" w:rsidP="00427DDF">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="6"/>
+        </w:numPr>
+        <w:spacing w:after="160" w:line="276" w:lineRule="auto"/>
+        <w:contextualSpacing/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+        </w:rPr>
+        <w:t>We can prevent avoidable revenue loss</w:t>
+      </w:r>
+      
+    </w:p>
+    <w:p w14:paraId="721B3859" w14:textId="0FB60486" w:rsidR="00427DDF" w:rsidRPr="00EA1DFC" w:rsidRDefault="00427DDF" w:rsidP="00427DDF">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="6"/>
+        </w:numPr>
+        <w:spacing w:before="240" w:after="160" w:line="276" w:lineRule="auto"/>
+        <w:contextualSpacing/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+        </w:rPr>
+        <w:t>We can assist you make better, data-driven decisions.</w:t>
+      </w:r>
+      
+    </w:p>
+    <w:p w14:paraId="17C8F239" w14:textId="17B6AE44" w:rsidR="00CE5226" w:rsidRPr="00CE5226" w:rsidRDefault="00CE5226" w:rsidP="00CE5226">
+      <w:pPr>
+        <w:pBdr>
+          <w:bottom w:val="single" w:sz="10" w:space="1" w:color="00B4D8"/>
+        </w:pBdr>
+        <w:spacing w:before="300" w:after="60"/>
+        <w:rPr>
+          <w:color w:val="0D47A1"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0D47A1"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t>Why It Works</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="50733A74" w14:textId="13DD69DE" w:rsidR="00427DDF" w:rsidRPr="00EA1DFC" w:rsidRDefault="00427DDF" w:rsidP="00427DDF">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="7"/>
+        </w:numPr>
+        <w:spacing w:after="160" w:line="276" w:lineRule="auto"/>
+        <w:contextualSpacing/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+        </w:rPr>
+        <w:t>Your existing systems (CMS, POS, booking tools) are enhanced—not replaced</w:t>
+      </w:r>
+      
+      
+    </w:p>
+    <w:p w14:paraId="6F96479C" w14:textId="77777777" w:rsidR="00427DDF" w:rsidRPr="00EA1DFC" w:rsidRDefault="00427DDF" w:rsidP="00427DDF">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="7"/>
+        </w:numPr>
+        <w:spacing w:after="160" w:line="276" w:lineRule="auto"/>
+        <w:contextualSpacing/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+        </w:rPr>
+        <w:t>Automations run in the background with minimal effort required</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="734612D8" w14:textId="77777777" w:rsidR="00427DDF" w:rsidRPr="00EA1DFC" w:rsidRDefault="00427DDF" w:rsidP="00427DDF">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="7"/>
+        </w:numPr>
+        <w:spacing w:after="160" w:line="276" w:lineRule="auto"/>
+        <w:contextualSpacing/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+        </w:rPr>
+        <w:t>Saves an estimated 5–10 hours per week</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="624DED51" w14:textId="77777777" w:rsidR="00427DDF" w:rsidRPr="00EA1DFC" w:rsidRDefault="00427DDF" w:rsidP="00427DDF">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="7"/>
+        </w:numPr>
+        <w:spacing w:before="240" w:after="160" w:line="276" w:lineRule="auto"/>
+        <w:contextualSpacing/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+        </w:rPr>
+        <w:t>Designed specifically for busy, owner-operated businesses</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="33A3F225" w14:textId="51895843" w:rsidR="009D0CDA" w:rsidRPr="00A711A1" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pBdr>
+          <w:bottom w:val="single" w:sz="10" w:space="1" w:color="00B4D8"/>
+        </w:pBdr>
+        <w:spacing w:before="300" w:after="60"/>
+        <w:rPr>
+          <w:color w:val="0D47A1"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0D47A1"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t>Our Approach &amp; Service Workflow</w:t>
+      </w:r>
+      
+    </w:p>
+    <w:tbl>
+      <w:tblPr>
+        <w:tblW w:w="10204" w:type="dxa"/>
+        <w:tblInd w:w="-5" w:type="dxa"/>
+        <w:tblBorders>
+          <w:top w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+          <w:left w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+          <w:bottom w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+          <w:right w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+          <w:insideH w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+          <w:insideV w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+        </w:tblBorders>
+        <w:tblCellMar>
+          <w:left w:w="10" w:type="dxa"/>
+          <w:right w:w="10" w:type="dxa"/>
+        </w:tblCellMar>
+        <w:tblLook w:val="0000" w:firstRow="0" w:lastRow="0" w:firstColumn="0" w:lastColumn="0" w:noHBand="0" w:noVBand="0"/>
+      </w:tblPr>
+      <w:tblGrid>
+        <w:gridCol w:w="762"/>
+        <w:gridCol w:w="935"/>
+        <w:gridCol w:w="1244"/>
+        <w:gridCol w:w="453"/>
+        <w:gridCol w:w="1697"/>
+        <w:gridCol w:w="1697"/>
+        <w:gridCol w:w="1697"/>
+        <w:gridCol w:w="1697"/>
+        <w:gridCol w:w="22"/>
+      </w:tblGrid>
+      <w:tr w:rsidR="009D0CDA" w14:paraId="46CB355A" w14:textId="77777777" w:rsidTr="00A711A1">
+        <w:trPr>
+          <w:trHeight w:val="296"/>
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="762" w:type="dxa"/>
+            <w:tcBorders>
+              <w:right w:val="double" w:sz="4" w:space="0" w:color="auto"/>
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="auto" w:fill="22B573"/>
+            <w:tcMar>
+              <w:top w:w="80" w:type="dxa"/>
+              <w:left w:w="120" w:type="dxa"/>
+              <w:bottom w:w="80" w:type="dxa"/>
+              <w:right w:w="120" w:type="dxa"/>
+            </w:tcMar>
+            <w:vAlign w:val="center"/>
+          </w:tcPr>
+          <w:p w14:paraId="338D4863" w14:textId="77777777" w:rsidR="009D0CDA" w:rsidRDefault="00000000" w:rsidP="00285351">
+            <w:pPr>
+              <w:jc w:val="center"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:b/>
+                <w:bCs/>
+                <w:color w:val="FFFFFF"/>
+                <w:sz w:val="22"/>
+                <w:szCs w:val="22"/>
+              </w:rPr>
+              <w:t>01</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="2179" w:type="dxa"/>
+            <w:gridSpan w:val="2"/>
+            <w:tcBorders>
+              <w:top w:val="double" w:sz="4" w:space="0" w:color="auto"/>
+              <w:left w:val="double" w:sz="4" w:space="0" w:color="auto"/>
+              <w:bottom w:val="double" w:sz="4" w:space="0" w:color="auto"/>
+              <w:right w:val="double" w:sz="4" w:space="0" w:color="auto"/>
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="auto" w:fill="0D47A1"/>
+            <w:tcMar>
+              <w:top w:w="80" w:type="dxa"/>
+              <w:left w:w="180" w:type="dxa"/>
+              <w:bottom w:w="80" w:type="dxa"/>
+              <w:right w:w="120" w:type="dxa"/>
+            </w:tcMar>
+          </w:tcPr>
+          <w:p w14:paraId="4E1EDABA" w14:textId="77777777" w:rsidR="009D0CDA" w:rsidRDefault="00000000" w:rsidP="00285351">
+            <w:pPr>
+              <w:jc w:val="center"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:b/>
+                <w:bCs/>
+                <w:color w:val="FFFFFF"/>
+              </w:rPr>
+              <w:t>Understand</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7263" w:type="dxa"/>
+            <w:gridSpan w:val="6"/>
+            <w:tcBorders>
+              <w:left w:val="double" w:sz="4" w:space="0" w:color="auto"/>
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF" w:themeFill="background1"/>
+            <w:tcMar>
+              <w:top w:w="80" w:type="dxa"/>
+              <w:left w:w="200" w:type="dxa"/>
+              <w:bottom w:w="80" w:type="dxa"/>
+              <w:right w:w="120" w:type="dxa"/>
+            </w:tcMar>
+          </w:tcPr>
+          <w:p w14:paraId="10B9E678" w14:textId="77777777" w:rsidR="009D0CDA" w:rsidRDefault="00000000" w:rsidP="00285351">
+            <w:pPr>
+              <w:jc w:val="center"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Map the business workflow end-to-end</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr w:rsidR="009D0CDA" w14:paraId="62628120" w14:textId="77777777" w:rsidTr="00A711A1">
+        <w:trPr>
+          <w:trHeight w:val="280"/>
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="762" w:type="dxa"/>
+            <w:tcBorders>
+              <w:right w:val="double" w:sz="4" w:space="0" w:color="auto"/>
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="auto" w:fill="22B573"/>
+            <w:tcMar>
+              <w:top w:w="80" w:type="dxa"/>
+              <w:left w:w="120" w:type="dxa"/>
+              <w:bottom w:w="80" w:type="dxa"/>
+              <w:right w:w="120" w:type="dxa"/>
+            </w:tcMar>
+            <w:vAlign w:val="center"/>
+          </w:tcPr>
+          <w:p w14:paraId="7CCA9A87" w14:textId="77777777" w:rsidR="009D0CDA" w:rsidRDefault="00000000" w:rsidP="00285351">
+            <w:pPr>
+              <w:jc w:val="center"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:b/>
+                <w:bCs/>
+                <w:color w:val="FFFFFF"/>
+                <w:sz w:val="22"/>
+                <w:szCs w:val="22"/>
+              </w:rPr>
+              <w:t>02</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="2179" w:type="dxa"/>
+            <w:gridSpan w:val="2"/>
+            <w:tcBorders>
+              <w:top w:val="double" w:sz="4" w:space="0" w:color="auto"/>
+              <w:left w:val="double" w:sz="4" w:space="0" w:color="auto"/>
+              <w:bottom w:val="double" w:sz="4" w:space="0" w:color="auto"/>
+              <w:right w:val="double" w:sz="4" w:space="0" w:color="auto"/>
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="auto" w:fill="0D47A1"/>
+            <w:tcMar>
+              <w:top w:w="80" w:type="dxa"/>
+              <w:left w:w="180" w:type="dxa"/>
+              <w:bottom w:w="80" w:type="dxa"/>
+              <w:right w:w="120" w:type="dxa"/>
+            </w:tcMar>
+          </w:tcPr>
+          <w:p w14:paraId="03972F46" w14:textId="77777777" w:rsidR="009D0CDA" w:rsidRDefault="00000000" w:rsidP="00285351">
+            <w:pPr>
+              <w:jc w:val="center"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:b/>
+                <w:bCs/>
+                <w:color w:val="FFFFFF"/>
+              </w:rPr>
+              <w:t>Identify</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7263" w:type="dxa"/>
+            <w:gridSpan w:val="6"/>
+            <w:tcBorders>
+              <w:left w:val="double" w:sz="4" w:space="0" w:color="auto"/>
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF" w:themeFill="background1"/>
+            <w:tcMar>
+              <w:top w:w="80" w:type="dxa"/>
+              <w:left w:w="200" w:type="dxa"/>
+              <w:bottom w:w="80" w:type="dxa"/>
+              <w:right w:w="120" w:type="dxa"/>
+            </w:tcMar>
+          </w:tcPr>
+          <w:p w14:paraId="59FD3837" w14:textId="77777777" w:rsidR="009D0CDA" w:rsidRDefault="00000000" w:rsidP="00285351">
+            <w:pPr>
+              <w:jc w:val="center"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Spot repetitive manual tasks</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr w:rsidR="009D0CDA" w14:paraId="1C116D62" w14:textId="77777777" w:rsidTr="00A711A1">
+        <w:trPr>
+          <w:trHeight w:val="296"/>
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="762" w:type="dxa"/>
+            <w:tcBorders>
+              <w:right w:val="double" w:sz="4" w:space="0" w:color="auto"/>
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="auto" w:fill="22B573"/>
+            <w:tcMar>
+              <w:top w:w="80" w:type="dxa"/>
+              <w:left w:w="120" w:type="dxa"/>
+              <w:bottom w:w="80" w:type="dxa"/>
+              <w:right w:w="120" w:type="dxa"/>
+            </w:tcMar>
+            <w:vAlign w:val="center"/>
+          </w:tcPr>
+          <w:p w14:paraId="78009F15" w14:textId="77777777" w:rsidR="009D0CDA" w:rsidRDefault="00000000" w:rsidP="00285351">
+            <w:pPr>
+              <w:jc w:val="center"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:b/>
+                <w:bCs/>
+                <w:color w:val="FFFFFF"/>
+                <w:sz w:val="22"/>
+                <w:szCs w:val="22"/>
+              </w:rPr>
+              <w:t>03</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="2179" w:type="dxa"/>
+            <w:gridSpan w:val="2"/>
+            <w:tcBorders>
+              <w:top w:val="double" w:sz="4" w:space="0" w:color="auto"/>
+              <w:left w:val="double" w:sz="4" w:space="0" w:color="auto"/>
+              <w:bottom w:val="double" w:sz="4" w:space="0" w:color="auto"/>
+              <w:right w:val="double" w:sz="4" w:space="0" w:color="auto"/>
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="auto" w:fill="0D47A1"/>
+            <w:tcMar>
+              <w:top w:w="80" w:type="dxa"/>
+              <w:left w:w="180" w:type="dxa"/>
+              <w:bottom w:w="80" w:type="dxa"/>
+              <w:right w:w="120" w:type="dxa"/>
+            </w:tcMar>
+          </w:tcPr>
+          <w:p w14:paraId="4AE3EF80" w14:textId="77777777" w:rsidR="009D0CDA" w:rsidRDefault="00000000" w:rsidP="00285351">
+            <w:pPr>
+              <w:jc w:val="center"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:b/>
+                <w:bCs/>
+                <w:color w:val="FFFFFF"/>
+              </w:rPr>
+              <w:t>Design</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7263" w:type="dxa"/>
+            <w:gridSpan w:val="6"/>
+            <w:tcBorders>
+              <w:left w:val="double" w:sz="4" w:space="0" w:color="auto"/>
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF" w:themeFill="background1"/>
+            <w:tcMar>
+              <w:top w:w="80" w:type="dxa"/>
+              <w:left w:w="200" w:type="dxa"/>
+              <w:bottom w:w="80" w:type="dxa"/>
+              <w:right w:w="120" w:type="dxa"/>
+            </w:tcMar>
+          </w:tcPr>
+          <w:p w14:paraId="2567D98B" w14:textId="77777777" w:rsidR="009D0CDA" w:rsidRDefault="00000000" w:rsidP="00285351">
+            <w:pPr>
+              <w:jc w:val="center"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Craft practical automation systems</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr w:rsidR="009D0CDA" w14:paraId="2621A2CC" w14:textId="77777777" w:rsidTr="00A711A1">
+        <w:trPr>
+          <w:trHeight w:val="280"/>
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="762" w:type="dxa"/>
+            <w:tcBorders>
+              <w:right w:val="double" w:sz="4" w:space="0" w:color="auto"/>
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="auto" w:fill="22B573"/>
+            <w:tcMar>
+              <w:top w:w="80" w:type="dxa"/>
+              <w:left w:w="120" w:type="dxa"/>
+              <w:bottom w:w="80" w:type="dxa"/>
+              <w:right w:w="120" w:type="dxa"/>
+            </w:tcMar>
+            <w:vAlign w:val="center"/>
+          </w:tcPr>
+          <w:p w14:paraId="639E11CE" w14:textId="77777777" w:rsidR="009D0CDA" w:rsidRDefault="00000000" w:rsidP="00285351">
+            <w:pPr>
+              <w:jc w:val="center"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:b/>
+                <w:bCs/>
+                <w:color w:val="FFFFFF"/>
+                <w:sz w:val="22"/>
+                <w:szCs w:val="22"/>
+              </w:rPr>
+              <w:t>04</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="2179" w:type="dxa"/>
+            <w:gridSpan w:val="2"/>
+            <w:tcBorders>
+              <w:top w:val="double" w:sz="4" w:space="0" w:color="auto"/>
+              <w:left w:val="double" w:sz="4" w:space="0" w:color="auto"/>
+              <w:bottom w:val="double" w:sz="4" w:space="0" w:color="auto"/>
+              <w:right w:val="double" w:sz="4" w:space="0" w:color="auto"/>
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="auto" w:fill="0D47A1"/>
+            <w:tcMar>
+              <w:top w:w="80" w:type="dxa"/>
+              <w:left w:w="180" w:type="dxa"/>
+              <w:bottom w:w="80" w:type="dxa"/>
+              <w:right w:w="120" w:type="dxa"/>
+            </w:tcMar>
+          </w:tcPr>
+          <w:p w14:paraId="421DF76F" w14:textId="77777777" w:rsidR="009D0CDA" w:rsidRDefault="00000000" w:rsidP="00285351">
+            <w:pPr>
+              <w:jc w:val="center"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:b/>
+                <w:bCs/>
+                <w:color w:val="FFFFFF"/>
+              </w:rPr>
+              <w:t>Implement</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7263" w:type="dxa"/>
+            <w:gridSpan w:val="6"/>
+            <w:tcBorders>
+              <w:left w:val="double" w:sz="4" w:space="0" w:color="auto"/>
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF" w:themeFill="background1"/>
+            <w:tcMar>
+              <w:top w:w="80" w:type="dxa"/>
+              <w:left w:w="200" w:type="dxa"/>
+              <w:bottom w:w="80" w:type="dxa"/>
+              <w:right w:w="120" w:type="dxa"/>
+            </w:tcMar>
+          </w:tcPr>
+          <w:p w14:paraId="12AA30DF" w14:textId="77777777" w:rsidR="009D0CDA" w:rsidRDefault="00000000" w:rsidP="00285351">
+            <w:pPr>
+              <w:jc w:val="center"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Deploy easy-to-use digital solutions</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr w:rsidR="009D0CDA" w14:paraId="0C71EAC0" w14:textId="77777777" w:rsidTr="00A711A1">
+        <w:trPr>
+          <w:trHeight w:val="296"/>
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="762" w:type="dxa"/>
+            <w:tcBorders>
+              <w:right w:val="double" w:sz="4" w:space="0" w:color="auto"/>
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="auto" w:fill="22B573"/>
+            <w:tcMar>
+              <w:top w:w="80" w:type="dxa"/>
+              <w:left w:w="120" w:type="dxa"/>
+              <w:bottom w:w="80" w:type="dxa"/>
+              <w:right w:w="120" w:type="dxa"/>
+            </w:tcMar>
+            <w:vAlign w:val="center"/>
+          </w:tcPr>
+          <w:p w14:paraId="736F2008" w14:textId="77777777" w:rsidR="009D0CDA" w:rsidRDefault="00000000" w:rsidP="00285351">
+            <w:pPr>
+              <w:jc w:val="center"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:b/>
+                <w:bCs/>
+                <w:color w:val="FFFFFF"/>
+                <w:sz w:val="22"/>
+                <w:szCs w:val="22"/>
+              </w:rPr>
+              <w:t>05</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="2179" w:type="dxa"/>
+            <w:gridSpan w:val="2"/>
+            <w:tcBorders>
+              <w:top w:val="double" w:sz="4" w:space="0" w:color="auto"/>
+              <w:left w:val="double" w:sz="4" w:space="0" w:color="auto"/>
+              <w:bottom w:val="double" w:sz="4" w:space="0" w:color="auto"/>
+              <w:right w:val="double" w:sz="4" w:space="0" w:color="auto"/>
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="auto" w:fill="0D47A1"/>
+            <w:tcMar>
+              <w:top w:w="80" w:type="dxa"/>
+              <w:left w:w="180" w:type="dxa"/>
+              <w:bottom w:w="80" w:type="dxa"/>
+              <w:right w:w="120" w:type="dxa"/>
+            </w:tcMar>
+          </w:tcPr>
+          <w:p w14:paraId="092CCE64" w14:textId="77777777" w:rsidR="009D0CDA" w:rsidRDefault="00000000" w:rsidP="00285351">
+            <w:pPr>
+              <w:jc w:val="center"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:b/>
+                <w:bCs/>
+                <w:color w:val="FFFFFF"/>
+              </w:rPr>
+              <w:t>Train</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7263" w:type="dxa"/>
+            <w:gridSpan w:val="6"/>
+            <w:tcBorders>
+              <w:left w:val="double" w:sz="4" w:space="0" w:color="auto"/>
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF" w:themeFill="background1"/>
+            <w:tcMar>
+              <w:top w:w="80" w:type="dxa"/>
+              <w:left w:w="200" w:type="dxa"/>
+              <w:bottom w:w="80" w:type="dxa"/>
+              <w:right w:w="120" w:type="dxa"/>
+            </w:tcMar>
+          </w:tcPr>
+          <w:p w14:paraId="16F692FE" w14:textId="77777777" w:rsidR="009D0CDA" w:rsidRDefault="00000000" w:rsidP="00285351">
+            <w:pPr>
+              <w:jc w:val="center"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Empower teams to confidently use systems</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr w:rsidR="004944FD" w14:paraId="3DF8D753" w14:textId="77777777" w:rsidTr="00A711A1">
+        <w:trPr>
+          <w:gridAfter w:val="1"/>
+          <w:wAfter w:w="22" w:type="dxa"/>
+          <w:trHeight w:val="793"/>
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1697" w:type="dxa"/>
+            <w:gridSpan w:val="2"/>
+            <w:tcBorders>
+              <w:top w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+              <w:left w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+              <w:bottom w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+              <w:right w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="auto" w:fill="0D47A1"/>
+            <w:tcMar>
+              <w:top w:w="100" w:type="dxa"/>
+              <w:left w:w="80" w:type="dxa"/>
+              <w:bottom w:w="100" w:type="dxa"/>
+              <w:right w:w="80" w:type="dxa"/>
+            </w:tcMar>
+            <w:vAlign w:val="center"/>
+          </w:tcPr>
+          <w:p w14:paraId="624945D5" w14:textId="77777777" w:rsidR="004944FD" w:rsidRDefault="004944FD" w:rsidP="000A6FE7">
+            <w:pPr>
+              <w:spacing w:after="20"/>
+              <w:jc w:val="center"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:b/>
+                <w:bCs/>
+                <w:color w:val="FFFFFF"/>
+                <w:sz w:val="32"/>
+                <w:szCs w:val="32"/>
+              </w:rPr>
+              <w:t>1</w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="3008FA8F" w14:textId="77777777" w:rsidR="004944FD" w:rsidRDefault="004944FD" w:rsidP="000A6FE7">
+            <w:pPr>
+              <w:jc w:val="center"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:color w:val="FFFFFF"/>
+                <w:sz w:val="16"/>
+                <w:szCs w:val="16"/>
+              </w:rPr>
+              <w:t>Discovery</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1697" w:type="dxa"/>
+            <w:gridSpan w:val="2"/>
+            <w:tcBorders>
+              <w:top w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+              <w:left w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+              <w:bottom w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+              <w:right w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="auto" w:fill="D4AF37"/>
+            <w:tcMar>
+              <w:top w:w="100" w:type="dxa"/>
+              <w:left w:w="80" w:type="dxa"/>
+              <w:bottom w:w="100" w:type="dxa"/>
+              <w:right w:w="80" w:type="dxa"/>
+            </w:tcMar>
+            <w:vAlign w:val="center"/>
+          </w:tcPr>
+          <w:p w14:paraId="6381154A" w14:textId="77777777" w:rsidR="004944FD" w:rsidRDefault="004944FD" w:rsidP="000A6FE7">
+            <w:pPr>
+              <w:spacing w:after="20"/>
+              <w:jc w:val="center"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:b/>
+                <w:bCs/>
+                <w:color w:val="FFFFFF"/>
+                <w:sz w:val="32"/>
+                <w:szCs w:val="32"/>
+              </w:rPr>
+              <w:t>2</w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="6A1AB3D0" w14:textId="77777777" w:rsidR="004944FD" w:rsidRDefault="004944FD" w:rsidP="000A6FE7">
+            <w:pPr>
+              <w:jc w:val="center"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:color w:val="FFFFFF"/>
+                <w:sz w:val="16"/>
+                <w:szCs w:val="16"/>
+              </w:rPr>
+              <w:t>Process Mapping</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1697" w:type="dxa"/>
+            <w:tcBorders>
+              <w:top w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+              <w:left w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+              <w:bottom w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+              <w:right w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="auto" w:fill="0D47A1"/>
+            <w:tcMar>
+              <w:top w:w="100" w:type="dxa"/>
+              <w:left w:w="80" w:type="dxa"/>
+              <w:bottom w:w="100" w:type="dxa"/>
+              <w:right w:w="80" w:type="dxa"/>
+            </w:tcMar>
+            <w:vAlign w:val="center"/>
+          </w:tcPr>
+          <w:p w14:paraId="1D711D0A" w14:textId="77777777" w:rsidR="004944FD" w:rsidRDefault="004944FD" w:rsidP="000A6FE7">
+            <w:pPr>
+              <w:spacing w:after="20"/>
+              <w:jc w:val="center"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:b/>
+                <w:bCs/>
+                <w:color w:val="FFFFFF"/>
+                <w:sz w:val="32"/>
+                <w:szCs w:val="32"/>
+              </w:rPr>
+              <w:t>3</w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="1773C062" w14:textId="77777777" w:rsidR="004944FD" w:rsidRDefault="004944FD" w:rsidP="000A6FE7">
+            <w:pPr>
+              <w:jc w:val="center"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:color w:val="FFFFFF"/>
+                <w:sz w:val="16"/>
+                <w:szCs w:val="16"/>
+              </w:rPr>
+              <w:t>Solution Design</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1697" w:type="dxa"/>
+            <w:tcBorders>
+              <w:top w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+              <w:left w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+              <w:bottom w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+              <w:right w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="auto" w:fill="D4AF37"/>
+            <w:tcMar>
+              <w:top w:w="100" w:type="dxa"/>
+              <w:left w:w="80" w:type="dxa"/>
+              <w:bottom w:w="100" w:type="dxa"/>
+              <w:right w:w="80" w:type="dxa"/>
+            </w:tcMar>
+            <w:vAlign w:val="center"/>
+          </w:tcPr>
+          <w:p w14:paraId="4EA82879" w14:textId="77777777" w:rsidR="004944FD" w:rsidRDefault="004944FD" w:rsidP="000A6FE7">
+            <w:pPr>
+              <w:spacing w:after="20"/>
+              <w:jc w:val="center"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:b/>
+                <w:bCs/>
+                <w:color w:val="FFFFFF"/>
+                <w:sz w:val="32"/>
+                <w:szCs w:val="32"/>
+              </w:rPr>
+              <w:t>4</w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="24257EA1" w14:textId="77777777" w:rsidR="004944FD" w:rsidRDefault="004944FD" w:rsidP="000A6FE7">
+            <w:pPr>
+              <w:jc w:val="center"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:color w:val="FFFFFF"/>
+                <w:sz w:val="16"/>
+                <w:szCs w:val="16"/>
+              </w:rPr>
+              <w:t>Build &amp; Integration</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1697" w:type="dxa"/>
+            <w:tcBorders>
+              <w:top w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+              <w:left w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+              <w:bottom w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+              <w:right w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="auto" w:fill="0D47A1"/>
+            <w:tcMar>
+              <w:top w:w="100" w:type="dxa"/>
+              <w:left w:w="80" w:type="dxa"/>
+              <w:bottom w:w="100" w:type="dxa"/>
+              <w:right w:w="80" w:type="dxa"/>
+            </w:tcMar>
+            <w:vAlign w:val="center"/>
+          </w:tcPr>
+          <w:p w14:paraId="4D77A3B4" w14:textId="77777777" w:rsidR="004944FD" w:rsidRDefault="004944FD" w:rsidP="000A6FE7">
+            <w:pPr>
+              <w:spacing w:after="20"/>
+              <w:jc w:val="center"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:b/>
+                <w:bCs/>
+                <w:color w:val="FFFFFF"/>
+                <w:sz w:val="32"/>
+                <w:szCs w:val="32"/>
+              </w:rPr>
+              <w:t>5</w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="01D01998" w14:textId="77777777" w:rsidR="004944FD" w:rsidRDefault="004944FD" w:rsidP="000A6FE7">
+            <w:pPr>
+              <w:jc w:val="center"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:color w:val="FFFFFF"/>
+                <w:sz w:val="16"/>
+                <w:szCs w:val="16"/>
+              </w:rPr>
+              <w:t>Testing &amp; Optimisation</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1697" w:type="dxa"/>
+            <w:tcBorders>
+              <w:top w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+              <w:left w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+              <w:bottom w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+              <w:right w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="auto" w:fill="D4AF37"/>
+            <w:tcMar>
+              <w:top w:w="100" w:type="dxa"/>
+              <w:left w:w="80" w:type="dxa"/>
+              <w:bottom w:w="100" w:type="dxa"/>
+              <w:right w:w="80" w:type="dxa"/>
+            </w:tcMar>
+            <w:vAlign w:val="center"/>
+          </w:tcPr>
+          <w:p w14:paraId="27729098" w14:textId="77777777" w:rsidR="004944FD" w:rsidRDefault="004944FD" w:rsidP="000A6FE7">
+            <w:pPr>
+              <w:spacing w:after="20"/>
+              <w:jc w:val="center"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:b/>
+                <w:bCs/>
+                <w:color w:val="FFFFFF"/>
+                <w:sz w:val="32"/>
+                <w:szCs w:val="32"/>
+              </w:rPr>
+              <w:t>6</w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="7121EFC9" w14:textId="77777777" w:rsidR="004944FD" w:rsidRDefault="004944FD" w:rsidP="000A6FE7">
+            <w:pPr>
+              <w:jc w:val="center"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:color w:val="FFFFFF"/>
+                <w:sz w:val="16"/>
+                <w:szCs w:val="16"/>
+              </w:rPr>
+              <w:t>Training &amp; Support</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+    </w:tbl>
+    <w:p w14:paraId="3270EF64" w14:textId="77777777" w:rsidR="004944FD" w:rsidRDefault="004944FD" w:rsidP="00285351"/>
+    <w:p w14:paraId="2CD6C2E8" w14:textId="77777777" w:rsidR="00285351" w:rsidRDefault="00285351" w:rsidP="00285351">
+      <w:pPr>
+        <w:jc w:val="center"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:i/>
+          <w:iCs/>
+          <w:color w:val="1B2A4A"/>
+        </w:rPr>
+        <w:t>We specialise in helping small businesses transition from manual processes into streamlined digital operations.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="0D95C6BF" w14:textId="77777777" w:rsidR="00A2572D" w:rsidRDefault="00A2572D">
+      <w:pPr>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="1B2A4A"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="1B2A4A"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:br w:type="page"/>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="2C450984" w14:textId="2CF351CC" w:rsidR="009D0CDA" w:rsidRPr="00BE1498" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pBdr>
+          <w:bottom w:val="single" w:sz="10" w:space="1" w:color="00B4D8"/>
+        </w:pBdr>
+        <w:spacing w:before="300" w:after="60"/>
+        <w:rPr>
+          <w:color w:val="0D47A1"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0D47A1"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:lastRenderedPageBreak/>
+        <w:t>Our Services</w:t>
+      </w:r>
+    </w:p>
+    <w:tbl>
+      <w:tblPr>
+        <w:tblW w:w="9360" w:type="dxa"/>
+        <w:tblBorders>
+          <w:top w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+          <w:left w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+          <w:bottom w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+          <w:right w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+          <w:insideH w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+          <w:insideV w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+        </w:tblBorders>
+        <w:tblCellMar>
+          <w:left w:w="10" w:type="dxa"/>
+          <w:right w:w="10" w:type="dxa"/>
+        </w:tblCellMar>
+        <w:tblLook w:val="0000" w:firstRow="0" w:lastRow="0" w:firstColumn="0" w:lastColumn="0" w:noHBand="0" w:noVBand="0"/>
+      </w:tblPr>
+      <w:tblGrid>
+        <w:gridCol w:w="5901"/>
+        <w:gridCol w:w="125"/>
+        <w:gridCol w:w="3334"/>
+      </w:tblGrid>
+      <w:tr w:rsidR="009D0CDA" w14:paraId="580AA531" w14:textId="77777777">
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="4560" w:type="dxa"/>
+            <w:tcBorders>
+              <w:top w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+              <w:left w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+              <w:bottom w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+              <w:right w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="auto" w:fill="F4F6F9"/>
+            <w:tcMar>
+              <w:top w:w="160" w:type="dxa"/>
+              <w:left w:w="200" w:type="dxa"/>
+              <w:bottom w:w="160" w:type="dxa"/>
+              <w:right w:w="200" w:type="dxa"/>
+            </w:tcMar>
+          </w:tcPr>
+          <w:p w14:paraId="6F8ACA8B" w14:textId="77777777" w:rsidR="009D0CDA" w:rsidRPr="00A2572D" w:rsidRDefault="00000000">
+            <w:pPr>
+              <w:spacing w:after="80"/>
+              <w:rPr>
+                <w:color w:val="0D47A1"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:b/>
+                <w:bCs/>
+                <w:color w:val="0D47A1"/>
+                <w:sz w:val="21"/>
+                <w:szCs w:val="21"/>
+              </w:rPr>
+              <w:t>AI Workflow Automation</w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="3A891C2D" w14:textId="77777777" w:rsidR="009D0CDA" w:rsidRDefault="00000000">
+            <w:pPr>
+              <w:pStyle w:val="ListParagraph"/>
+              <w:numPr>
+                <w:ilvl w:val="0"/>
+                <w:numId w:val="2"/>
+              </w:numPr>
+              <w:spacing w:before="30" w:after="30"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:sz w:val="18"/>
+                <w:szCs w:val="18"/>
+              </w:rPr>
+              <w:t>Automated booking systems</w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="390AB08E" w14:textId="77777777" w:rsidR="009D0CDA" w:rsidRDefault="00000000">
+            <w:pPr>
+              <w:pStyle w:val="ListParagraph"/>
+              <w:numPr>
+                <w:ilvl w:val="0"/>
+                <w:numId w:val="2"/>
+              </w:numPr>
+              <w:spacing w:before="30" w:after="30"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:sz w:val="18"/>
+                <w:szCs w:val="18"/>
+              </w:rPr>
+              <w:t>Customer enquiry workflows</w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="6A2418FE" w14:textId="77777777" w:rsidR="009D0CDA" w:rsidRDefault="00000000">
+            <w:pPr>
+              <w:pStyle w:val="ListParagraph"/>
+              <w:numPr>
+                <w:ilvl w:val="0"/>
+                <w:numId w:val="2"/>
+              </w:numPr>
+              <w:spacing w:before="30" w:after="30"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:sz w:val="18"/>
+                <w:szCs w:val="18"/>
+              </w:rPr>
+              <w:t>Appointment reminders</w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="05DFA736" w14:textId="77777777" w:rsidR="009D0CDA" w:rsidRDefault="00000000">
+            <w:pPr>
+              <w:pStyle w:val="ListParagraph"/>
+              <w:numPr>
+                <w:ilvl w:val="0"/>
+                <w:numId w:val="2"/>
+              </w:numPr>
+              <w:spacing w:before="30" w:after="30"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:sz w:val="18"/>
+                <w:szCs w:val="18"/>
+              </w:rPr>
+              <w:t>Workflow approvals</w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="701E7B69" w14:textId="77777777" w:rsidR="009D0CDA" w:rsidRDefault="00000000">
+            <w:pPr>
+              <w:pStyle w:val="ListParagraph"/>
+              <w:numPr>
+                <w:ilvl w:val="0"/>
+                <w:numId w:val="2"/>
+              </w:numPr>
+              <w:spacing w:before="30" w:after="30"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:sz w:val="18"/>
+                <w:szCs w:val="18"/>
+              </w:rPr>
+              <w:t>Inventory alerts</w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="5C715F35" w14:textId="77777777" w:rsidR="009D0CDA" w:rsidRDefault="00000000">
+            <w:pPr>
+              <w:pStyle w:val="ListParagraph"/>
+              <w:numPr>
+                <w:ilvl w:val="0"/>
+                <w:numId w:val="2"/>
+              </w:numPr>
+              <w:spacing w:before="30" w:after="30"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:sz w:val="18"/>
+                <w:szCs w:val="18"/>
+              </w:rPr>
+              <w:t>Supplier ordering workflows</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="240" w:type="dxa"/>
+            <w:tcBorders>
+              <w:top w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+              <w:left w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+              <w:bottom w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+              <w:right w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+            </w:tcBorders>
+            <w:tcMar>
+              <w:top w:w="0" w:type="dxa"/>
+              <w:left w:w="0" w:type="dxa"/>
+              <w:bottom w:w="0" w:type="dxa"/>
+              <w:right w:w="0" w:type="dxa"/>
+            </w:tcMar>
+          </w:tcPr>
+          <w:p w14:paraId="045E5C09" w14:textId="77777777" w:rsidR="009D0CDA" w:rsidRDefault="009D0CDA"/>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="4560" w:type="dxa"/>
+            <w:tcBorders>
+              <w:top w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+              <w:left w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+              <w:bottom w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+              <w:right w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="auto" w:fill="F4F6F9"/>
+            <w:tcMar>
+              <w:top w:w="160" w:type="dxa"/>
+              <w:left w:w="200" w:type="dxa"/>
+              <w:bottom w:w="160" w:type="dxa"/>
+              <w:right w:w="200" w:type="dxa"/>
+            </w:tcMar>
+          </w:tcPr>
+          <w:p w14:paraId="32FD6856" w14:textId="77777777" w:rsidR="009D0CDA" w:rsidRPr="00A2572D" w:rsidRDefault="00000000">
+            <w:pPr>
+              <w:spacing w:after="80"/>
+              <w:rPr>
+                <w:color w:val="0D47A1"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:b/>
+                <w:bCs/>
+                <w:color w:val="0D47A1"/>
+                <w:sz w:val="21"/>
+                <w:szCs w:val="21"/>
+              </w:rPr>
+              <w:t>Business Process Mapping</w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="3E988562" w14:textId="3FE49CA4" w:rsidR="009D0CDA" w:rsidRDefault="00000000">
+            <w:pPr>
+              <w:pStyle w:val="ListParagraph"/>
+              <w:numPr>
+                <w:ilvl w:val="0"/>
+                <w:numId w:val="2"/>
+              </w:numPr>
+              <w:spacing w:before="30" w:after="30"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:sz w:val="18"/>
+                <w:szCs w:val="18"/>
+              </w:rPr>
+              <w:t>Current and future operations analysis</w:t>
+            </w:r>
+            
+            
+          </w:p>
+          <w:p w14:paraId="7C41C7C8" w14:textId="77777777" w:rsidR="009D0CDA" w:rsidRDefault="00000000">
+            <w:pPr>
+              <w:pStyle w:val="ListParagraph"/>
+              <w:numPr>
+                <w:ilvl w:val="0"/>
+                <w:numId w:val="2"/>
+              </w:numPr>
+              <w:spacing w:before="30" w:after="30"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:sz w:val="18"/>
+                <w:szCs w:val="18"/>
+              </w:rPr>
+              <w:t>Workflow redesign for efficiency</w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="029A32EE" w14:textId="77777777" w:rsidR="009D0CDA" w:rsidRDefault="00000000">
+            <w:pPr>
+              <w:pStyle w:val="ListParagraph"/>
+              <w:numPr>
+                <w:ilvl w:val="0"/>
+                <w:numId w:val="2"/>
+              </w:numPr>
+              <w:spacing w:before="30" w:after="30"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:sz w:val="18"/>
+                <w:szCs w:val="18"/>
+              </w:rPr>
+              <w:t>Bottleneck identification</w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="59044CC5" w14:textId="77777777" w:rsidR="009D0CDA" w:rsidRPr="007E5506" w:rsidRDefault="00000000">
+            <w:pPr>
+              <w:pStyle w:val="ListParagraph"/>
+              <w:numPr>
+                <w:ilvl w:val="0"/>
+                <w:numId w:val="2"/>
+              </w:numPr>
+              <w:spacing w:before="30" w:after="30"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:sz w:val="18"/>
+                <w:szCs w:val="18"/>
+              </w:rPr>
+              <w:t>Digital process documentation</w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="70A07DE5" w14:textId="0F430B3E" w:rsidR="007E5506" w:rsidRDefault="007E5506">
+            <w:pPr>
+              <w:pStyle w:val="ListParagraph"/>
+              <w:numPr>
+                <w:ilvl w:val="0"/>
+                <w:numId w:val="2"/>
+              </w:numPr>
+              <w:spacing w:before="30" w:after="30"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:sz w:val="18"/>
+                <w:szCs w:val="18"/>
+              </w:rPr>
+              <w:t>Data Migration and Configuration</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr w:rsidR="009D0CDA" w14:paraId="07D6C04A" w14:textId="77777777">
+        <w:trPr>
+          <w:gridAfter w:val="2"/>
+          <w:wAfter w:w="4800" w:type="dxa"/>
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="9360" w:type="dxa"/>
+            <w:tcBorders>
+              <w:top w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+              <w:left w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+              <w:bottom w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+              <w:right w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+            </w:tcBorders>
+          </w:tcPr>
+          <w:p w14:paraId="2B70220B" w14:textId="77777777" w:rsidR="009D0CDA" w:rsidRDefault="009D0CDA">
+            <w:pPr>
+              <w:spacing w:before="60" w:after="60"/>
+            </w:pPr>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr w:rsidR="009D0CDA" w14:paraId="356A6592" w14:textId="77777777">
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="4560" w:type="dxa"/>
+            <w:tcBorders>
+              <w:top w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+              <w:left w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+              <w:bottom w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+              <w:right w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="auto" w:fill="F4F6F9"/>
+            <w:tcMar>
+              <w:top w:w="160" w:type="dxa"/>
+              <w:left w:w="200" w:type="dxa"/>
+              <w:bottom w:w="160" w:type="dxa"/>
+              <w:right w:w="200" w:type="dxa"/>
+            </w:tcMar>
+          </w:tcPr>
+          <w:p w14:paraId="549B8483" w14:textId="77777777" w:rsidR="009D0CDA" w:rsidRPr="00A2572D" w:rsidRDefault="00000000">
+            <w:pPr>
+              <w:spacing w:after="80"/>
+              <w:rPr>
+                <w:color w:val="0D47A1"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:b/>
+                <w:bCs/>
+                <w:color w:val="0D47A1"/>
+                <w:sz w:val="21"/>
+                <w:szCs w:val="21"/>
+              </w:rPr>
+              <w:t>AI Integration</w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="6D37872E" w14:textId="77777777" w:rsidR="009D0CDA" w:rsidRDefault="00000000">
+            <w:pPr>
+              <w:pStyle w:val="ListParagraph"/>
+              <w:numPr>
+                <w:ilvl w:val="0"/>
+                <w:numId w:val="2"/>
+              </w:numPr>
+              <w:spacing w:before="30" w:after="30"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:sz w:val="18"/>
+                <w:szCs w:val="18"/>
+              </w:rPr>
+              <w:t>AI tools integration</w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="0649D7A4" w14:textId="77777777" w:rsidR="009D0CDA" w:rsidRDefault="00000000">
+            <w:pPr>
+              <w:pStyle w:val="ListParagraph"/>
+              <w:numPr>
+                <w:ilvl w:val="0"/>
+                <w:numId w:val="2"/>
+              </w:numPr>
+              <w:spacing w:before="30" w:after="30"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:sz w:val="18"/>
+                <w:szCs w:val="18"/>
+              </w:rPr>
+              <w:t>Daily operations enhancement</w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="59E25FA8" w14:textId="77777777" w:rsidR="009D0CDA" w:rsidRDefault="00000000">
+            <w:pPr>
+              <w:pStyle w:val="ListParagraph"/>
+              <w:numPr>
+                <w:ilvl w:val="0"/>
+                <w:numId w:val="2"/>
+              </w:numPr>
+              <w:spacing w:before="30" w:after="30"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:sz w:val="18"/>
+                <w:szCs w:val="18"/>
+              </w:rPr>
+              <w:t>Intelligent recommendations</w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="5C7C88E5" w14:textId="4DC7F14F" w:rsidR="009D0CDA" w:rsidRDefault="003263E9">
+            <w:pPr>
+              <w:pStyle w:val="ListParagraph"/>
+              <w:numPr>
+                <w:ilvl w:val="0"/>
+                <w:numId w:val="2"/>
+              </w:numPr>
+              <w:spacing w:before="30" w:after="30"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:sz w:val="18"/>
+                <w:szCs w:val="18"/>
+              </w:rPr>
+              <w:t>AI Powered Data-driven Insights</w:t>
+            </w:r>
+            
+            
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="240" w:type="dxa"/>
+            <w:tcBorders>
+              <w:top w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+              <w:left w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+              <w:bottom w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+              <w:right w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+            </w:tcBorders>
+            <w:tcMar>
+              <w:top w:w="0" w:type="dxa"/>
+              <w:left w:w="0" w:type="dxa"/>
+              <w:bottom w:w="0" w:type="dxa"/>
+              <w:right w:w="0" w:type="dxa"/>
+            </w:tcMar>
+          </w:tcPr>
+          <w:p w14:paraId="309CA35E" w14:textId="77777777" w:rsidR="009D0CDA" w:rsidRDefault="009D0CDA"/>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="4560" w:type="dxa"/>
+            <w:tcBorders>
+              <w:top w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+              <w:left w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+              <w:bottom w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+              <w:right w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="auto" w:fill="F4F6F9"/>
+            <w:tcMar>
+              <w:top w:w="160" w:type="dxa"/>
+              <w:left w:w="200" w:type="dxa"/>
+              <w:bottom w:w="160" w:type="dxa"/>
+              <w:right w:w="200" w:type="dxa"/>
+            </w:tcMar>
+          </w:tcPr>
+          <w:p w14:paraId="04340F64" w14:textId="77777777" w:rsidR="009D0CDA" w:rsidRPr="00A2572D" w:rsidRDefault="00000000">
+            <w:pPr>
+              <w:spacing w:after="80"/>
+              <w:rPr>
+                <w:color w:val="0D47A1"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:b/>
+                <w:bCs/>
+                <w:color w:val="0D47A1"/>
+                <w:sz w:val="21"/>
+                <w:szCs w:val="21"/>
+              </w:rPr>
+              <w:t>Digital Transformation</w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="5C3F1251" w14:textId="77777777" w:rsidR="009D0CDA" w:rsidRDefault="00000000">
+            <w:pPr>
+              <w:pStyle w:val="ListParagraph"/>
+              <w:numPr>
+                <w:ilvl w:val="0"/>
+                <w:numId w:val="2"/>
+              </w:numPr>
+              <w:spacing w:before="30" w:after="30"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:sz w:val="18"/>
+                <w:szCs w:val="18"/>
+              </w:rPr>
+              <w:t>Transition from manual systems</w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="7AAEA6F5" w14:textId="77777777" w:rsidR="009D0CDA" w:rsidRDefault="00000000">
+            <w:pPr>
+              <w:pStyle w:val="ListParagraph"/>
+              <w:numPr>
+                <w:ilvl w:val="0"/>
+                <w:numId w:val="2"/>
+              </w:numPr>
+              <w:spacing w:before="30" w:after="30"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:sz w:val="18"/>
+                <w:szCs w:val="18"/>
+              </w:rPr>
+              <w:t>Modern platform migration</w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="1947F6AC" w14:textId="77777777" w:rsidR="009D0CDA" w:rsidRDefault="00000000">
+            <w:pPr>
+              <w:pStyle w:val="ListParagraph"/>
+              <w:numPr>
+                <w:ilvl w:val="0"/>
+                <w:numId w:val="2"/>
+              </w:numPr>
+              <w:spacing w:before="30" w:after="30"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:sz w:val="18"/>
+                <w:szCs w:val="18"/>
+              </w:rPr>
+              <w:t>Change management support</w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="78CEED16" w14:textId="77777777" w:rsidR="009D0CDA" w:rsidRDefault="00000000">
+            <w:pPr>
+              <w:pStyle w:val="ListParagraph"/>
+              <w:numPr>
+                <w:ilvl w:val="0"/>
+                <w:numId w:val="2"/>
+              </w:numPr>
+              <w:spacing w:before="30" w:after="30"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:sz w:val="18"/>
+                <w:szCs w:val="18"/>
+              </w:rPr>
+              <w:t>Ongoing optimisation</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+    </w:tbl>
+    <w:p w14:paraId="5B328D16" w14:textId="77777777" w:rsidR="009D0CDA" w:rsidRPr="00BE1498" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pBdr>
+          <w:bottom w:val="single" w:sz="10" w:space="1" w:color="00B4D8"/>
+        </w:pBdr>
+        <w:spacing w:before="300" w:after="60"/>
+        <w:rPr>
+          <w:color w:val="0D47A1"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0D47A1"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t>Featured Projects</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="3D5B662D" w14:textId="77777777" w:rsidR="009D0CDA" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="100" w:after="80"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="1B2A4A"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+        </w:rPr>
+        <w:t>Café Inventory &amp; Operations Automation</w:t>
+      </w:r>
+    </w:p>
+    <w:tbl>
+      <w:tblPr>
+        <w:tblW w:w="9360" w:type="dxa"/>
+        <w:tblBorders>
+          <w:top w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+          <w:left w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+          <w:bottom w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+          <w:right w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+          <w:insideH w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+          <w:insideV w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+        </w:tblBorders>
+        <w:tblCellMar>
+          <w:left w:w="10" w:type="dxa"/>
+          <w:right w:w="10" w:type="dxa"/>
+        </w:tblCellMar>
+        <w:tblLook w:val="0000" w:firstRow="0" w:lastRow="0" w:firstColumn="0" w:lastColumn="0" w:noHBand="0" w:noVBand="0"/>
+      </w:tblPr>
+      <w:tblGrid>
+        <w:gridCol w:w="4560"/>
+        <w:gridCol w:w="240"/>
+        <w:gridCol w:w="4560"/>
+      </w:tblGrid>
+      <w:tr w:rsidR="009D0CDA" w14:paraId="14DFD8B7" w14:textId="77777777" w:rsidTr="00A2572D">
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="4560" w:type="dxa"/>
+            <w:tcBorders>
+              <w:top w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+              <w:left w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+              <w:bottom w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+              <w:right w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="auto" w:fill="F4F6F9"/>
+            <w:tcMar>
+              <w:top w:w="160" w:type="dxa"/>
+              <w:left w:w="200" w:type="dxa"/>
+              <w:bottom w:w="160" w:type="dxa"/>
+              <w:right w:w="200" w:type="dxa"/>
+            </w:tcMar>
+          </w:tcPr>
+          <w:p w14:paraId="766B9660" w14:textId="77777777" w:rsidR="009D0CDA" w:rsidRDefault="00000000">
+            <w:pPr>
+              <w:spacing w:after="80"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:b/>
+                <w:bCs/>
+                <w:color w:val="1B2A4A"/>
+              </w:rPr>
+              <w:t>Problems Identified</w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="467D2E2F" w14:textId="5FE1C6DF" w:rsidR="007E5506" w:rsidRPr="007E5506" w:rsidRDefault="007E5506">
+            <w:pPr>
+              <w:pStyle w:val="ListParagraph"/>
+              <w:numPr>
+                <w:ilvl w:val="0"/>
+                <w:numId w:val="2"/>
+              </w:numPr>
+              <w:spacing w:before="40" w:after="40"/>
+            </w:pPr>
+            <w:r>
+              <w:t>No accurate booking/reservation system</w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="1874CC66" w14:textId="79442645" w:rsidR="009D0CDA" w:rsidRDefault="00000000">
+            <w:pPr>
+              <w:pStyle w:val="ListParagraph"/>
+              <w:numPr>
+                <w:ilvl w:val="0"/>
+                <w:numId w:val="2"/>
+              </w:numPr>
+              <w:spacing w:before="40" w:after="40"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:sz w:val="19"/>
+                <w:szCs w:val="19"/>
+              </w:rPr>
+              <w:t>Time-consuming stock management</w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="53D231B5" w14:textId="77777777" w:rsidR="009D0CDA" w:rsidRDefault="00000000">
+            <w:pPr>
+              <w:pStyle w:val="ListParagraph"/>
+              <w:numPr>
+                <w:ilvl w:val="0"/>
+                <w:numId w:val="2"/>
+              </w:numPr>
+              <w:spacing w:before="40" w:after="40"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:sz w:val="19"/>
+                <w:szCs w:val="19"/>
+              </w:rPr>
+              <w:t>No central inventory tracking</w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="41C9BFA0" w14:textId="77777777" w:rsidR="009D0CDA" w:rsidRDefault="00000000">
+            <w:pPr>
+              <w:pStyle w:val="ListParagraph"/>
+              <w:numPr>
+                <w:ilvl w:val="0"/>
+                <w:numId w:val="2"/>
+              </w:numPr>
+              <w:spacing w:before="40" w:after="40"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:sz w:val="19"/>
+                <w:szCs w:val="19"/>
+              </w:rPr>
+              <w:t>Manual supplier communication</w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="73C932EA" w14:textId="478D6ABF" w:rsidR="007E5506" w:rsidRDefault="007E5506">
+            <w:pPr>
+              <w:pStyle w:val="ListParagraph"/>
+              <w:numPr>
+                <w:ilvl w:val="0"/>
+                <w:numId w:val="2"/>
+              </w:numPr>
+              <w:spacing w:before="40" w:after="40"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:sz w:val="19"/>
+                <w:szCs w:val="19"/>
+              </w:rPr>
+              <w:t>Paper-based Staff Rostering</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="240" w:type="dxa"/>
+            <w:tcBorders>
+              <w:top w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+              <w:left w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+              <w:bottom w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+              <w:right w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+            </w:tcBorders>
+            <w:tcMar>
+              <w:top w:w="0" w:type="dxa"/>
+              <w:left w:w="0" w:type="dxa"/>
+              <w:bottom w:w="0" w:type="dxa"/>
+              <w:right w:w="0" w:type="dxa"/>
+            </w:tcMar>
+          </w:tcPr>
+          <w:p w14:paraId="08B33A64" w14:textId="77777777" w:rsidR="009D0CDA" w:rsidRDefault="009D0CDA"/>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="4560" w:type="dxa"/>
+            <w:tcBorders>
+              <w:top w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+              <w:left w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+              <w:bottom w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+              <w:right w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="auto" w:fill="D4AF37"/>
+            <w:tcMar>
+              <w:top w:w="160" w:type="dxa"/>
+              <w:left w:w="200" w:type="dxa"/>
+              <w:bottom w:w="160" w:type="dxa"/>
+              <w:right w:w="200" w:type="dxa"/>
+            </w:tcMar>
+          </w:tcPr>
+          <w:p w14:paraId="5ED3B9B6" w14:textId="77777777" w:rsidR="009D0CDA" w:rsidRPr="00A2572D" w:rsidRDefault="00000000">
+            <w:pPr>
+              <w:spacing w:after="80"/>
+              <w:rPr>
+                <w:color w:val="0D47A1"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:b/>
+                <w:bCs/>
+                <w:color w:val="0D47A1"/>
+              </w:rPr>
+              <w:t>Automation Solutions</w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="4CCE2D16" w14:textId="09F35E3A" w:rsidR="007E5506" w:rsidRPr="007E5506" w:rsidRDefault="007E5506">
+            <w:pPr>
+              <w:pStyle w:val="ListParagraph"/>
+              <w:numPr>
+                <w:ilvl w:val="0"/>
+                <w:numId w:val="2"/>
+              </w:numPr>
+              <w:spacing w:before="40" w:after="40"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Automated Reservations Process</w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="7B885B79" w14:textId="6E54BB08" w:rsidR="009D0CDA" w:rsidRDefault="00000000">
+            <w:pPr>
+              <w:pStyle w:val="ListParagraph"/>
+              <w:numPr>
+                <w:ilvl w:val="0"/>
+                <w:numId w:val="2"/>
+              </w:numPr>
+              <w:spacing w:before="40" w:after="40"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:sz w:val="19"/>
+                <w:szCs w:val="19"/>
+              </w:rPr>
+              <w:t>Digital inventory tracking</w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="392A216D" w14:textId="77777777" w:rsidR="009D0CDA" w:rsidRDefault="00000000">
+            <w:pPr>
+              <w:pStyle w:val="ListParagraph"/>
+              <w:numPr>
+                <w:ilvl w:val="0"/>
+                <w:numId w:val="2"/>
+              </w:numPr>
+              <w:spacing w:before="40" w:after="40"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:sz w:val="19"/>
+                <w:szCs w:val="19"/>
+              </w:rPr>
+              <w:t>Automated supplier requests</w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="20511ECD" w14:textId="77777777" w:rsidR="009D0CDA" w:rsidRDefault="00000000">
+            <w:pPr>
+              <w:pStyle w:val="ListParagraph"/>
+              <w:numPr>
+                <w:ilvl w:val="0"/>
+                <w:numId w:val="2"/>
+              </w:numPr>
+              <w:spacing w:before="40" w:after="40"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:sz w:val="19"/>
+                <w:szCs w:val="19"/>
+              </w:rPr>
+              <w:t>Reporting dashboards</w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="63176DE5" w14:textId="57EE179A" w:rsidR="007E5506" w:rsidRDefault="007E5506">
+            <w:pPr>
+              <w:pStyle w:val="ListParagraph"/>
+              <w:numPr>
+                <w:ilvl w:val="0"/>
+                <w:numId w:val="2"/>
+              </w:numPr>
+              <w:spacing w:before="40" w:after="40"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Staff Portal through Mobile App</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+    </w:tbl>
+    <w:p w14:paraId="6A8994E2" w14:textId="77777777" w:rsidR="009D0CDA" w:rsidRDefault="009D0CDA">
+      <w:pPr>
+        <w:spacing w:before="80" w:after="80"/>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="3B2188FB" w14:textId="640C4C4E" w:rsidR="009D0CDA" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="100" w:after="80"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="1B2A4A"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+        </w:rPr>
+        <w:t>Accounting &amp; Bookkeeping Automation</w:t>
+      </w:r>
+    </w:p>
+    <w:tbl>
+      <w:tblPr>
+        <w:tblW w:w="9360" w:type="dxa"/>
+        <w:tblBorders>
+          <w:top w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+          <w:left w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+          <w:bottom w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+          <w:right w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+          <w:insideH w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+          <w:insideV w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+        </w:tblBorders>
+        <w:tblCellMar>
+          <w:left w:w="10" w:type="dxa"/>
+          <w:right w:w="10" w:type="dxa"/>
+        </w:tblCellMar>
+        <w:tblLook w:val="0000" w:firstRow="0" w:lastRow="0" w:firstColumn="0" w:lastColumn="0" w:noHBand="0" w:noVBand="0"/>
+      </w:tblPr>
+      <w:tblGrid>
+        <w:gridCol w:w="4560"/>
+        <w:gridCol w:w="240"/>
+        <w:gridCol w:w="4560"/>
+      </w:tblGrid>
+      <w:tr w:rsidR="009D0CDA" w14:paraId="30AAB4DF" w14:textId="77777777" w:rsidTr="00A2572D">
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="4560" w:type="dxa"/>
+            <w:tcBorders>
+              <w:top w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+              <w:left w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+              <w:bottom w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+              <w:right w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="auto" w:fill="F4F6F9"/>
+            <w:tcMar>
+              <w:top w:w="160" w:type="dxa"/>
+              <w:left w:w="200" w:type="dxa"/>
+              <w:bottom w:w="160" w:type="dxa"/>
+              <w:right w:w="200" w:type="dxa"/>
+            </w:tcMar>
+          </w:tcPr>
+          <w:p w14:paraId="1090C7B9" w14:textId="77777777" w:rsidR="009D0CDA" w:rsidRDefault="00000000">
+            <w:pPr>
+              <w:spacing w:after="80"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:b/>
+                <w:bCs/>
+                <w:color w:val="1B2A4A"/>
+              </w:rPr>
+              <w:t>Problems Identified</w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="22A1F452" w14:textId="77777777" w:rsidR="00660C17" w:rsidRPr="00660C17" w:rsidRDefault="00660C17">
+            <w:pPr>
+              <w:pStyle w:val="ListParagraph"/>
+              <w:numPr>
+                <w:ilvl w:val="0"/>
+                <w:numId w:val="2"/>
+              </w:numPr>
+              <w:spacing w:before="40" w:after="40"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:sz w:val="19"/>
+                <w:szCs w:val="19"/>
+              </w:rPr>
+              <w:t>Lack of a clear and consistent client acquisition process.</w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="58E81023" w14:textId="77777777" w:rsidR="00BF11D4" w:rsidRPr="00BF11D4" w:rsidRDefault="00BF11D4">
+            <w:pPr>
+              <w:pStyle w:val="ListParagraph"/>
+              <w:numPr>
+                <w:ilvl w:val="0"/>
+                <w:numId w:val="2"/>
+              </w:numPr>
+              <w:spacing w:before="40" w:after="40"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:sz w:val="19"/>
+                <w:szCs w:val="19"/>
+              </w:rPr>
+              <w:t>Time-consuming manual bookkeeping tasks reducing operational efficiency.</w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="56B028D6" w14:textId="15012612" w:rsidR="009D0CDA" w:rsidRDefault="00BF11D4">
+            <w:pPr>
+              <w:pStyle w:val="ListParagraph"/>
+              <w:numPr>
+                <w:ilvl w:val="0"/>
+                <w:numId w:val="2"/>
+              </w:numPr>
+              <w:spacing w:before="40" w:after="40"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:sz w:val="19"/>
+                <w:szCs w:val="19"/>
+              </w:rPr>
+              <w:t>Undefined staff responsibilities and inconsistent task allocation.</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="240" w:type="dxa"/>
+            <w:tcBorders>
+              <w:top w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+              <w:left w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+              <w:bottom w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+              <w:right w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+            </w:tcBorders>
+            <w:tcMar>
+              <w:top w:w="0" w:type="dxa"/>
+              <w:left w:w="0" w:type="dxa"/>
+              <w:bottom w:w="0" w:type="dxa"/>
+              <w:right w:w="0" w:type="dxa"/>
+            </w:tcMar>
+          </w:tcPr>
+          <w:p w14:paraId="3F1B8DA8" w14:textId="77777777" w:rsidR="009D0CDA" w:rsidRDefault="009D0CDA"/>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="4560" w:type="dxa"/>
+            <w:tcBorders>
+              <w:top w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+              <w:left w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+              <w:bottom w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+              <w:right w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="auto" w:fill="D4AF37"/>
+            <w:tcMar>
+              <w:top w:w="160" w:type="dxa"/>
+              <w:left w:w="200" w:type="dxa"/>
+              <w:bottom w:w="160" w:type="dxa"/>
+              <w:right w:w="200" w:type="dxa"/>
+            </w:tcMar>
+          </w:tcPr>
+          <w:p w14:paraId="1F163FCC" w14:textId="77777777" w:rsidR="009D0CDA" w:rsidRPr="00A2572D" w:rsidRDefault="00000000">
+            <w:pPr>
+              <w:spacing w:after="80"/>
+              <w:rPr>
+                <w:color w:val="0D47A1"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:b/>
+                <w:bCs/>
+                <w:color w:val="0D47A1"/>
+              </w:rPr>
+              <w:t>Automation Solutions</w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="302EA3EA" w14:textId="4BDFFB97" w:rsidR="004B03A3" w:rsidRPr="004B03A3" w:rsidRDefault="004B03A3" w:rsidP="004B03A3">
+            <w:pPr>
+              <w:pStyle w:val="ListParagraph"/>
+              <w:numPr>
+                <w:ilvl w:val="0"/>
+                <w:numId w:val="2"/>
+              </w:numPr>
+              <w:spacing w:before="40" w:after="40"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Lead capture forms, CRM integration, and follow-ups for a consistent client acquisition process</w:t>
+            </w:r>
+            
+            
+            
+            
+          </w:p>
+          <w:p w14:paraId="7938AFA1" w14:textId="77777777" w:rsidR="00A706E1" w:rsidRPr="004B03A3" w:rsidRDefault="004B03A3" w:rsidP="004B03A3">
+            <w:pPr>
+              <w:pStyle w:val="ListParagraph"/>
+              <w:numPr>
+                <w:ilvl w:val="0"/>
+                <w:numId w:val="2"/>
+              </w:numPr>
+              <w:spacing w:before="40" w:after="40"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Data Entry, reconciliation, and invoice processing improvements</w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="3C08978C" w14:textId="6AD410A2" w:rsidR="004B03A3" w:rsidRDefault="004B03A3" w:rsidP="004B03A3">
+            <w:pPr>
+              <w:pStyle w:val="ListParagraph"/>
+              <w:numPr>
+                <w:ilvl w:val="0"/>
+                <w:numId w:val="2"/>
+              </w:numPr>
+              <w:spacing w:before="40" w:after="40"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Task allocation, workflow tracking, and role management systems</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+    </w:tbl>
+    <w:p w14:paraId="0E80F4B9" w14:textId="2D80C754" w:rsidR="00516246" w:rsidRPr="00BE1498" w:rsidRDefault="00516246" w:rsidP="00516246">
+      <w:pPr>
+        <w:pBdr>
+          <w:bottom w:val="single" w:sz="10" w:space="1" w:color="00B4D8"/>
+        </w:pBdr>
+        <w:spacing w:before="300" w:after="60"/>
+        <w:rPr>
+          <w:color w:val="0D47A1"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0D47A1"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:lastRenderedPageBreak/>
+        <w:t>Pricing Packages</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="3D67629A" w14:textId="17AA6F50" w:rsidR="00FC36AD" w:rsidRPr="00FC36AD" w:rsidRDefault="00405799" w:rsidP="00FC36AD">
+      <w:pPr>
+        <w:pStyle w:val="Heading3"/>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+        <w:t xml:space="preserve">1. Consultation &amp; Strategy (Entry Point) - AUD $80/hour or $300 for a half day session </w:t>
+      </w:r>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </w:p>
+    <w:p w14:paraId="5A707443" w14:textId="77777777" w:rsidR="0019667C" w:rsidRDefault="0019667C" w:rsidP="0019667C">
+      <w:pPr>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="2F3C51FC" w14:textId="6EAE0E8C" w:rsidR="00AF3337" w:rsidRDefault="0019667C" w:rsidP="0060605E">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="19"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t xml:space="preserve">Initial Quick Demo (Understanding the Business, How I Can Help You) – </w:t>
+      </w:r>
+      
+      
+      
+      
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+        <w:t>FREE 30-minute session.</w:t>
+      </w:r>
+      
+      
+      
+      
+      
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="61725A75" w14:textId="77777777" w:rsidR="007F253E" w:rsidRDefault="007F253E" w:rsidP="007F253E">
+      <w:pPr>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="5A734B49" w14:textId="561E3F61" w:rsidR="007F253E" w:rsidRPr="007F253E" w:rsidRDefault="007F253E" w:rsidP="007F253E">
+      <w:pPr>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+        <w:t>Succeeding session for businesses that need clarity before building anything.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="46D784AC" w14:textId="3822079D" w:rsidR="002B1780" w:rsidRDefault="00D46E5B" w:rsidP="0060605E">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="19"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t xml:space="preserve">This includes the following: </w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="174895BB" w14:textId="77777777" w:rsidR="003C2FA5" w:rsidRDefault="00FC36AD" w:rsidP="003C2FA5">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="1"/>
+          <w:numId w:val="19"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t xml:space="preserve">Review systems, workflows, tools, and identify automation opportunities </w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="13F245A9" w14:textId="27855C24" w:rsidR="0060605E" w:rsidRDefault="00FC36AD" w:rsidP="003C2FA5">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="1"/>
+          <w:numId w:val="19"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t xml:space="preserve">Process &amp; Workflow Audit </w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="257DFF27" w14:textId="0EAE6C47" w:rsidR="00AF3337" w:rsidRDefault="00AF3337" w:rsidP="003C2FA5">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="1"/>
+          <w:numId w:val="19"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>Automation Opportunities</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="128CFC5F" w14:textId="47EB88FA" w:rsidR="00476D15" w:rsidRDefault="00476D15" w:rsidP="003C2FA5">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="1"/>
+          <w:numId w:val="19"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>Tool Recommendations</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="49130384" w14:textId="0C8C8E95" w:rsidR="00476D15" w:rsidRDefault="00476D15" w:rsidP="003C2FA5">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="1"/>
+          <w:numId w:val="19"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>Implementation Roadmap</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="5F85C881" w14:textId="77777777" w:rsidR="004A3BEF" w:rsidRDefault="004A3BEF" w:rsidP="004A3BEF">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:ind w:left="1440"/>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="6E1B5199" w14:textId="53E2634B" w:rsidR="00170063" w:rsidRPr="00F95B26" w:rsidRDefault="00405799" w:rsidP="0061018F">
+      <w:pPr>
+        <w:pStyle w:val="Heading3"/>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+        <w:t>2. STARTER - Automation &amp; Workflow Setup (AUD $300 – $800)</w:t>
+      </w:r>
+      
+      
+      
+      
+      
+      
+      
+      
+    </w:p>
+    <w:p w14:paraId="4601260C" w14:textId="77777777" w:rsidR="001734C9" w:rsidRDefault="001734C9" w:rsidP="001734C9">
+      <w:pPr>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="560AEC5B" w14:textId="00F4AF99" w:rsidR="00170063" w:rsidRPr="00170063" w:rsidRDefault="00170063" w:rsidP="001734C9">
+      <w:pPr>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+        <w:t>Best for: Cafes, small service businesses, early-stage operations</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="7C1A3286" w14:textId="77777777" w:rsidR="00170063" w:rsidRPr="00170063" w:rsidRDefault="00170063" w:rsidP="00405799">
+      <w:pPr>
+        <w:ind w:left="720"/>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="14114C39" w14:textId="77777777" w:rsidR="00170063" w:rsidRPr="00170063" w:rsidRDefault="00170063" w:rsidP="00405799">
+      <w:pPr>
+        <w:ind w:left="720"/>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+        <w:t>Includes:</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="3BB919DD" w14:textId="77777777" w:rsidR="003269D4" w:rsidRPr="003269D4" w:rsidRDefault="00170063" w:rsidP="00405799">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="14"/>
+        </w:numPr>
+        <w:ind w:left="1440"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Simple booking / enquiry system (forms, calendar, email automation)</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="76BE8284" w14:textId="475E2501" w:rsidR="003269D4" w:rsidRPr="003269D4" w:rsidRDefault="00170063" w:rsidP="00405799">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="14"/>
+        </w:numPr>
+        <w:ind w:left="1440"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Basic lead capture (website/socials)</w:t>
+      </w:r>
+      
+      
+    </w:p>
+    <w:p w14:paraId="11A2CA34" w14:textId="135798F9" w:rsidR="003269D4" w:rsidRPr="003269D4" w:rsidRDefault="00170063" w:rsidP="00405799">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="14"/>
+        </w:numPr>
+        <w:ind w:left="1440"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Simple CRM setup (e.g.: Google Sheets, Hubspot Free)</w:t>
+      </w:r>
+      
+      
+      
+      
+      
+      
+    </w:p>
+    <w:p w14:paraId="677BC8BF" w14:textId="65E6853F" w:rsidR="003269D4" w:rsidRPr="003269D4" w:rsidRDefault="00170063" w:rsidP="00405799">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="14"/>
+        </w:numPr>
+        <w:ind w:left="1440"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Basic workflow automation (Email or SMS Notifications)</w:t>
+      </w:r>
+      
+      
+    </w:p>
+    <w:p w14:paraId="57D83F79" w14:textId="0351CD9E" w:rsidR="003269D4" w:rsidRPr="003269D4" w:rsidRDefault="00170063" w:rsidP="00405799">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="14"/>
+        </w:numPr>
+        <w:ind w:left="1440"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Light website setup (landing 1-2 pages only)</w:t>
+      </w:r>
+      
+      
+    </w:p>
+    <w:p w14:paraId="20BD106A" w14:textId="133448C4" w:rsidR="00170063" w:rsidRPr="003269D4" w:rsidRDefault="00170063" w:rsidP="00405799">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="14"/>
+        </w:numPr>
+        <w:ind w:left="1440"/>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:t>Basic Google Business Profile optimisation</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="102B757F" w14:textId="77777777" w:rsidR="00170063" w:rsidRPr="00170063" w:rsidRDefault="00170063" w:rsidP="00405799">
+      <w:pPr>
+        <w:ind w:left="720"/>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="3EB29CA4" w14:textId="26DB5C84" w:rsidR="0061018F" w:rsidRDefault="00170063" w:rsidP="00782BBE">
+      <w:pPr>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+        <w:t>Why: Low integration complexity, mostly no-code tools, quick deployment.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="4CC8D885" w14:textId="77777777" w:rsidR="00F95B26" w:rsidRDefault="00F95B26" w:rsidP="00405799">
+      <w:pPr>
+        <w:ind w:left="720"/>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="122BBFB9" w14:textId="5CFC14CA" w:rsidR="00F95B26" w:rsidRPr="00E701AE" w:rsidRDefault="00405799" w:rsidP="00F95B26">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="002060"/>
+          <w:sz w:val="24"/>
+          <w:szCs w:val="24"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="002060"/>
+          <w:sz w:val="24"/>
+          <w:szCs w:val="24"/>
+        </w:rPr>
+        <w:t>3. GROWTH - Business Process Automation Package (AUD $800 – $2,500)</w:t>
+      </w:r>
+      
+      
+      
+      
+      
+      
+      
+      
+    </w:p>
+    <w:p w14:paraId="2FF27B49" w14:textId="77777777" w:rsidR="001734C9" w:rsidRDefault="001734C9" w:rsidP="001734C9">
+      <w:pPr>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="0B487218" w14:textId="6C08FD83" w:rsidR="00F95B26" w:rsidRPr="00F95B26" w:rsidRDefault="00F95B26" w:rsidP="001734C9">
+      <w:pPr>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+        <w:t>Best for: Accounting firms, growing cafes, admin-heavy businesses</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="754DB1FF" w14:textId="77777777" w:rsidR="00F95B26" w:rsidRPr="00F95B26" w:rsidRDefault="00F95B26" w:rsidP="00405799">
+      <w:pPr>
+        <w:ind w:left="720"/>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="19425A68" w14:textId="5B48C6F3" w:rsidR="00F95B26" w:rsidRPr="00F95B26" w:rsidRDefault="00F95B26" w:rsidP="00405799">
+      <w:pPr>
+        <w:ind w:left="720"/>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+        <w:t>Includes:</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="21930EF7" w14:textId="77777777" w:rsidR="00F95B26" w:rsidRPr="00E701AE" w:rsidRDefault="00F95B26" w:rsidP="00405799">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="15"/>
+        </w:numPr>
+        <w:ind w:left="1440"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Multi-step workflow automation (client onboarding, approvals, notifications)</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="21B1E2A3" w14:textId="77777777" w:rsidR="00F95B26" w:rsidRPr="00E701AE" w:rsidRDefault="00F95B26" w:rsidP="00405799">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="15"/>
+        </w:numPr>
+        <w:ind w:left="1440"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Lead generation + pipeline tracking system</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="405056F0" w14:textId="77777777" w:rsidR="00F95B26" w:rsidRPr="00E701AE" w:rsidRDefault="00F95B26" w:rsidP="00405799">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="15"/>
+        </w:numPr>
+        <w:ind w:left="1440"/>
+      </w:pPr>
+      <w:r>
+        <w:t>CRM setup + segmentation</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="65241937" w14:textId="77777777" w:rsidR="00F95B26" w:rsidRPr="00E701AE" w:rsidRDefault="00F95B26" w:rsidP="00405799">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="15"/>
+        </w:numPr>
+        <w:ind w:left="1440"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Email automation sequences</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="34E83FA1" w14:textId="77777777" w:rsidR="00F95B26" w:rsidRPr="00E701AE" w:rsidRDefault="00F95B26" w:rsidP="00405799">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="15"/>
+        </w:numPr>
+        <w:ind w:left="1440"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Staff task workflows (assignments, reminders, reporting)</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="4CDDC580" w14:textId="77777777" w:rsidR="00F95B26" w:rsidRPr="00E701AE" w:rsidRDefault="00F95B26" w:rsidP="00405799">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="15"/>
+        </w:numPr>
+        <w:ind w:left="1440"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Integration of 2–4 tools (e.g. Google Workspace, Zapier, Xero basic connection)</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="72EE9A4F" w14:textId="77777777" w:rsidR="00F95B26" w:rsidRPr="00F95B26" w:rsidRDefault="00F95B26" w:rsidP="00F95B26">
+      <w:pPr>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="644A167D" w14:textId="1E3A24CF" w:rsidR="00F95B26" w:rsidRDefault="00F95B26" w:rsidP="00F95B26">
+      <w:pPr>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+        <w:t>Why: Requires workflow design + multi-system integration + optimisation.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="6CF5F3D8" w14:textId="77777777" w:rsidR="00E701AE" w:rsidRDefault="00E701AE" w:rsidP="00F95B26">
+      <w:pPr>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="07D2A655" w14:textId="77777777" w:rsidR="00405799" w:rsidRDefault="00405799">
+      <w:pPr>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="002060"/>
+          <w:sz w:val="24"/>
+          <w:szCs w:val="24"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="002060"/>
+          <w:sz w:val="24"/>
+          <w:szCs w:val="24"/>
+        </w:rPr>
+        <w:br w:type="page"/>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="004D2F10" w14:textId="6DD0C950" w:rsidR="00A2649D" w:rsidRPr="00A2649D" w:rsidRDefault="00405799" w:rsidP="00A2649D">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="002060"/>
+          <w:sz w:val="24"/>
+          <w:szCs w:val="24"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="002060"/>
+          <w:sz w:val="24"/>
+          <w:szCs w:val="24"/>
+        </w:rPr>
+        <w:lastRenderedPageBreak/>
+        <w:t>4. SCALE - Finance &amp; Operational Automation (Advanced) (AUD $2,500 – $6,000)</w:t>
+      </w:r>
+      
+      
+      
+      
+      
+      
+      
+    </w:p>
+    <w:p w14:paraId="3D2EFF94" w14:textId="77777777" w:rsidR="001734C9" w:rsidRDefault="001734C9" w:rsidP="001734C9">
+      <w:pPr>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="2C131C54" w14:textId="334D7284" w:rsidR="00A2649D" w:rsidRPr="00A2649D" w:rsidRDefault="00A2649D" w:rsidP="001734C9">
+      <w:pPr>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+        <w:t>Best for: Accounting firms, finance-heavy businesses, structured operations</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="0F935A41" w14:textId="77777777" w:rsidR="00A2649D" w:rsidRDefault="00A2649D" w:rsidP="00405799">
+      <w:pPr>
+        <w:ind w:left="720"/>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="7432A01A" w14:textId="1115E232" w:rsidR="00A2649D" w:rsidRPr="00A2649D" w:rsidRDefault="00A2649D" w:rsidP="00405799">
+      <w:pPr>
+        <w:ind w:left="720"/>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+        <w:t>Includes:</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="5534E8A6" w14:textId="77777777" w:rsidR="00A2649D" w:rsidRPr="00A2649D" w:rsidRDefault="00A2649D" w:rsidP="00405799">
+      <w:pPr>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="16"/>
+        </w:numPr>
+        <w:tabs>
+          <w:tab w:val="clear" w:pos="720"/>
+          <w:tab w:val="num" w:pos="1440"/>
+        </w:tabs>
+        <w:ind w:left="1440"/>
+      </w:pPr>
+      <w:r>
+        <w:t xml:space="preserve">Xero integrations (invoice sync, reconciliation support workflows, reporting automation) </w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="69CE1506" w14:textId="77777777" w:rsidR="00A2649D" w:rsidRPr="00A2649D" w:rsidRDefault="00A2649D" w:rsidP="00405799">
+      <w:pPr>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="16"/>
+        </w:numPr>
+        <w:tabs>
+          <w:tab w:val="clear" w:pos="720"/>
+          <w:tab w:val="num" w:pos="1440"/>
+        </w:tabs>
+        <w:ind w:left="1440"/>
+      </w:pPr>
+      <w:r>
+        <w:t xml:space="preserve">Bookkeeping workflow automation (data entry reduction, approval flows) </w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="22097686" w14:textId="77777777" w:rsidR="00A2649D" w:rsidRPr="00A2649D" w:rsidRDefault="00A2649D" w:rsidP="00405799">
+      <w:pPr>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="16"/>
+        </w:numPr>
+        <w:tabs>
+          <w:tab w:val="clear" w:pos="720"/>
+          <w:tab w:val="num" w:pos="1440"/>
+        </w:tabs>
+        <w:ind w:left="1440"/>
+      </w:pPr>
+      <w:r>
+        <w:t xml:space="preserve">Document handling automation (receipt capture, classification, storage) </w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="6014C95F" w14:textId="77777777" w:rsidR="00A2649D" w:rsidRPr="00A2649D" w:rsidRDefault="00A2649D" w:rsidP="00405799">
+      <w:pPr>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="16"/>
+        </w:numPr>
+        <w:tabs>
+          <w:tab w:val="clear" w:pos="720"/>
+          <w:tab w:val="num" w:pos="1440"/>
+        </w:tabs>
+        <w:ind w:left="1440"/>
+      </w:pPr>
+      <w:r>
+        <w:t xml:space="preserve">Advanced CRM + accounting system integration </w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="187E216C" w14:textId="77777777" w:rsidR="00A2649D" w:rsidRPr="00A2649D" w:rsidRDefault="00A2649D" w:rsidP="00405799">
+      <w:pPr>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="16"/>
+        </w:numPr>
+        <w:tabs>
+          <w:tab w:val="clear" w:pos="720"/>
+          <w:tab w:val="num" w:pos="1440"/>
+        </w:tabs>
+        <w:ind w:left="1440"/>
+      </w:pPr>
+      <w:r>
+        <w:t xml:space="preserve">Error handling + logic-based workflows </w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="39D4F2E4" w14:textId="77777777" w:rsidR="00A2649D" w:rsidRPr="00A2649D" w:rsidRDefault="00A2649D" w:rsidP="00405799">
+      <w:pPr>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="16"/>
+        </w:numPr>
+        <w:tabs>
+          <w:tab w:val="clear" w:pos="720"/>
+          <w:tab w:val="num" w:pos="1440"/>
+        </w:tabs>
+        <w:ind w:left="1440"/>
+      </w:pPr>
+      <w:r>
+        <w:t xml:space="preserve">Staff dashboards (basic reporting views) </w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="74EFF24E" w14:textId="77777777" w:rsidR="00A2649D" w:rsidRDefault="00A2649D" w:rsidP="00405799">
+      <w:pPr>
+        <w:ind w:left="720"/>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="081438E1" w14:textId="18B81BA2" w:rsidR="00F7684F" w:rsidRDefault="00A2649D">
+      <w:pPr>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+        <w:t>Why: Higher risk + technical integrations + financial workflow accuracy required.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="360AE996" w14:textId="77777777" w:rsidR="00F7684F" w:rsidRDefault="00F7684F" w:rsidP="00F7684F">
+      <w:pPr>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="1ED173D0" w14:textId="687E50BE" w:rsidR="00F7684F" w:rsidRDefault="00D0445B" w:rsidP="00F7684F">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="002060"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="002060"/>
+        </w:rPr>
+        <w:t>5. BESPOKE - Business Portal / Lightweight App System (High-End Build) – AUD $3,000 - $8,000)</w:t>
+      </w:r>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </w:p>
+    <w:p w14:paraId="2FDAF4D7" w14:textId="77777777" w:rsidR="002667E3" w:rsidRDefault="002667E3" w:rsidP="002667E3">
+      <w:pPr>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="402697E0" w14:textId="77777777" w:rsidR="002667E3" w:rsidRPr="002667E3" w:rsidRDefault="002667E3" w:rsidP="002667E3">
+      <w:pPr>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+        <w:t>Best for: Businesses wanting a &#x201C;system&#x201D;, not just automation</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="2BC58EA5" w14:textId="77777777" w:rsidR="001E6AE2" w:rsidRDefault="001E6AE2" w:rsidP="002667E3">
+      <w:pPr>
+        <w:ind w:left="720"/>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="239D361B" w14:textId="3CE156A3" w:rsidR="002667E3" w:rsidRPr="002667E3" w:rsidRDefault="002667E3" w:rsidP="002667E3">
+      <w:pPr>
+        <w:ind w:left="720"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Includes:</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="61317975" w14:textId="77777777" w:rsidR="002667E3" w:rsidRPr="002667E3" w:rsidRDefault="002667E3" w:rsidP="002667E3">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="21"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t xml:space="preserve">Client portal OR staff portal (web-based) </w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="420D5A91" w14:textId="77777777" w:rsidR="002667E3" w:rsidRPr="002667E3" w:rsidRDefault="002667E3" w:rsidP="002667E3">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="21"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t xml:space="preserve">Booking + CRM + communication dashboard </w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="15583715" w14:textId="77777777" w:rsidR="002667E3" w:rsidRPr="002667E3" w:rsidRDefault="002667E3" w:rsidP="002667E3">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="21"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t xml:space="preserve">Task management system </w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="7445E243" w14:textId="77777777" w:rsidR="002667E3" w:rsidRPr="002667E3" w:rsidRDefault="002667E3" w:rsidP="002667E3">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="21"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t xml:space="preserve">Role-based access (staff vs client vs admin) </w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="3806290A" w14:textId="77777777" w:rsidR="002667E3" w:rsidRPr="002667E3" w:rsidRDefault="002667E3" w:rsidP="002667E3">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="21"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t xml:space="preserve">Mobile-friendly web app (not native app) </w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="5F61327B" w14:textId="77777777" w:rsidR="002667E3" w:rsidRPr="002667E3" w:rsidRDefault="002667E3" w:rsidP="002667E3">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="21"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t xml:space="preserve">Built using tools like: </w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="2EDA8E53" w14:textId="3DD03F84" w:rsidR="002667E3" w:rsidRPr="002667E3" w:rsidRDefault="000C0D28" w:rsidP="002667E3">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="21"/>
+        </w:numPr>
+      </w:pPr>
+      
+      <w:r>
+        <w:t>Supabase / Vercel / Github / VS Code / Wix</w:t>
+      </w:r>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </w:p>
+    <w:p w14:paraId="1192C060" w14:textId="77777777" w:rsidR="002667E3" w:rsidRPr="002667E3" w:rsidRDefault="002667E3" w:rsidP="002667E3">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="21"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>Full workflow integration</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="15980DB7" w14:textId="77777777" w:rsidR="002667E3" w:rsidRPr="002667E3" w:rsidRDefault="002667E3" w:rsidP="002667E3">
+      <w:pPr>
+        <w:ind w:left="720"/>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="5A54C57E" w14:textId="6B9A32B4" w:rsidR="00F7684F" w:rsidRDefault="00F7684F" w:rsidP="002667E3">
+      <w:pPr>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+        <w:t>Why: Custom build, higher complexity, longer delivery time, ongoing maintenance often required.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="3EC4790B" w14:textId="77777777" w:rsidR="00F7684F" w:rsidRDefault="00F7684F" w:rsidP="00C70329">
+      <w:pPr>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="2035C4E6" w14:textId="22005837" w:rsidR="00C70329" w:rsidRPr="00C70329" w:rsidRDefault="00D0445B" w:rsidP="00C70329">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="002060"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="002060"/>
+        </w:rPr>
+        <w:t>6. AMPLIFY - Website + SEO Improvement Package – AUD $500-1,300</w:t>
+      </w:r>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </w:p>
+    <w:p w14:paraId="0043A130" w14:textId="77777777" w:rsidR="00343B6C" w:rsidRDefault="00343B6C" w:rsidP="00C70329">
+      <w:pPr>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="49CF7A27" w14:textId="1C4438CC" w:rsidR="00C70329" w:rsidRPr="001E6AE2" w:rsidRDefault="00C70329" w:rsidP="00C70329">
+      <w:pPr>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+        <w:t>Best for: Small businesses needing online presence + leads</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="4F97F68E" w14:textId="77777777" w:rsidR="00343B6C" w:rsidRDefault="00343B6C" w:rsidP="00343B6C">
+      <w:pPr>
+        <w:ind w:left="720"/>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="378E18C3" w14:textId="40246733" w:rsidR="00C70329" w:rsidRPr="00C70329" w:rsidRDefault="00C70329" w:rsidP="00343B6C">
+      <w:pPr>
+        <w:ind w:left="720"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Includes:</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="6158CE93" w14:textId="292B79FC" w:rsidR="00C70329" w:rsidRPr="00C70329" w:rsidRDefault="007425E5" w:rsidP="00343B6C">
+      <w:pPr>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="22"/>
+        </w:numPr>
+        <w:tabs>
+          <w:tab w:val="clear" w:pos="720"/>
+          <w:tab w:val="num" w:pos="1440"/>
+        </w:tabs>
+        <w:ind w:left="1440"/>
+      </w:pPr>
+      <w:r>
+        <w:t>More complex website with 3-6 pages</w:t>
+      </w:r>
+      
+      
+      
+    </w:p>
+    <w:p w14:paraId="26F9C029" w14:textId="77777777" w:rsidR="00C70329" w:rsidRPr="00C70329" w:rsidRDefault="00C70329" w:rsidP="00343B6C">
+      <w:pPr>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="22"/>
+        </w:numPr>
+        <w:tabs>
+          <w:tab w:val="clear" w:pos="720"/>
+          <w:tab w:val="num" w:pos="1440"/>
+        </w:tabs>
+        <w:ind w:left="1440"/>
+      </w:pPr>
+      <w:r>
+        <w:t xml:space="preserve">CMS setup (WordPress / Webflow / Wix) </w:t>
+      </w:r>
+      
+      
+      
+      
+    </w:p>
+    <w:p w14:paraId="564DA7CE" w14:textId="77777777" w:rsidR="00C70329" w:rsidRPr="00C70329" w:rsidRDefault="00C70329" w:rsidP="00343B6C">
+      <w:pPr>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="22"/>
+        </w:numPr>
+        <w:tabs>
+          <w:tab w:val="clear" w:pos="720"/>
+          <w:tab w:val="num" w:pos="1440"/>
+        </w:tabs>
+        <w:ind w:left="1440"/>
+      </w:pPr>
+      <w:r>
+        <w:t xml:space="preserve">SEO optimisation (basic on-page SEO) </w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="7C2B6B8A" w14:textId="77777777" w:rsidR="00C70329" w:rsidRPr="00C70329" w:rsidRDefault="00C70329" w:rsidP="00343B6C">
+      <w:pPr>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="22"/>
+        </w:numPr>
+        <w:tabs>
+          <w:tab w:val="clear" w:pos="720"/>
+          <w:tab w:val="num" w:pos="1440"/>
+        </w:tabs>
+        <w:ind w:left="1440"/>
+      </w:pPr>
+      <w:r>
+        <w:t xml:space="preserve">Google Business Profile optimisation </w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="28C987F1" w14:textId="77777777" w:rsidR="00C70329" w:rsidRPr="00C70329" w:rsidRDefault="00C70329" w:rsidP="00343B6C">
+      <w:pPr>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="22"/>
+        </w:numPr>
+        <w:tabs>
+          <w:tab w:val="clear" w:pos="720"/>
+          <w:tab w:val="num" w:pos="1440"/>
+        </w:tabs>
+        <w:ind w:left="1440"/>
+      </w:pPr>
+      <w:r>
+        <w:t xml:space="preserve">Lead capture integration </w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="5670F74D" w14:textId="77777777" w:rsidR="00C70329" w:rsidRPr="00C70329" w:rsidRDefault="00C70329" w:rsidP="00343B6C">
+      <w:pPr>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="22"/>
+        </w:numPr>
+        <w:tabs>
+          <w:tab w:val="clear" w:pos="720"/>
+          <w:tab w:val="num" w:pos="1440"/>
+        </w:tabs>
+        <w:ind w:left="1440"/>
+      </w:pPr>
+      <w:r>
+        <w:t xml:space="preserve">Booking/contact automation </w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="46CC1B24" w14:textId="1A36F654" w:rsidR="00C70329" w:rsidRDefault="00C70329" w:rsidP="00C70329">
+      <w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Segoe UI Emoji" w:hAnsi="Segoe UI Emoji" w:cs="Segoe UI Emoji"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="15BF6FA6" w14:textId="77777777" w:rsidR="00343B6C" w:rsidRPr="00343B6C" w:rsidRDefault="00343B6C" w:rsidP="00343B6C">
+      <w:pPr>
+        <w:ind w:left="720"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Suitable when:</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="6C2AFCBB" w14:textId="77777777" w:rsidR="00343B6C" w:rsidRPr="00343B6C" w:rsidRDefault="00343B6C" w:rsidP="00343B6C">
+      <w:pPr>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="23"/>
+        </w:numPr>
+        <w:tabs>
+          <w:tab w:val="clear" w:pos="720"/>
+          <w:tab w:val="num" w:pos="1440"/>
+        </w:tabs>
+        <w:ind w:left="1440"/>
+      </w:pPr>
+      <w:r>
+        <w:t xml:space="preserve">Business has weak online presence </w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="482E926F" w14:textId="77777777" w:rsidR="00343B6C" w:rsidRPr="00343B6C" w:rsidRDefault="00343B6C" w:rsidP="00343B6C">
+      <w:pPr>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="23"/>
+        </w:numPr>
+        <w:tabs>
+          <w:tab w:val="clear" w:pos="720"/>
+          <w:tab w:val="num" w:pos="1080"/>
+        </w:tabs>
+        <w:ind w:left="1440"/>
+      </w:pPr>
+      <w:r>
+        <w:t xml:space="preserve">Needs visibility + leads </w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="147454DF" w14:textId="3298A856" w:rsidR="00B642BC" w:rsidRDefault="00343B6C" w:rsidP="00B642BC">
+      <w:pPr>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="23"/>
+        </w:numPr>
+        <w:tabs>
+          <w:tab w:val="clear" w:pos="720"/>
+          <w:tab w:val="num" w:pos="1080"/>
+        </w:tabs>
+        <w:ind w:left="1440"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Not heavy on integrations</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="11E35316" w14:textId="77777777" w:rsidR="00B642BC" w:rsidRDefault="00B642BC" w:rsidP="00B642BC">
+      <w:pPr>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="7F8A5669" w14:textId="0B676F0E" w:rsidR="00B642BC" w:rsidRPr="00B642BC" w:rsidRDefault="002D3A46" w:rsidP="00B642BC">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="002060"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="002060"/>
+        </w:rPr>
+        <w:lastRenderedPageBreak/>
+        <w:t>7. Monthly Support (Highly Recommended) – AUD $300 - $1,000/month</w:t>
+      </w:r>
+      
+      
+      
+      
+    </w:p>
+    <w:p w14:paraId="54E34AA4" w14:textId="77777777" w:rsidR="00B642BC" w:rsidRDefault="00B642BC" w:rsidP="00B642BC"/>
+    <w:p w14:paraId="28687040" w14:textId="77777777" w:rsidR="00B642BC" w:rsidRPr="00B642BC" w:rsidRDefault="00B642BC" w:rsidP="00B642BC">
+      <w:pPr>
+        <w:ind w:left="720"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Includes:</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="49A72163" w14:textId="77777777" w:rsidR="00B642BC" w:rsidRPr="00B642BC" w:rsidRDefault="00B642BC" w:rsidP="00B642BC">
+      <w:pPr>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="24"/>
+        </w:numPr>
+        <w:tabs>
+          <w:tab w:val="clear" w:pos="720"/>
+          <w:tab w:val="num" w:pos="1440"/>
+        </w:tabs>
+        <w:ind w:left="1440"/>
+      </w:pPr>
+      <w:r>
+        <w:t xml:space="preserve">Workflow monitoring </w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="2BB8C083" w14:textId="77777777" w:rsidR="00B642BC" w:rsidRPr="00B642BC" w:rsidRDefault="00B642BC" w:rsidP="00B642BC">
+      <w:pPr>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="24"/>
+        </w:numPr>
+        <w:tabs>
+          <w:tab w:val="clear" w:pos="720"/>
+          <w:tab w:val="num" w:pos="1440"/>
+        </w:tabs>
+        <w:ind w:left="1440"/>
+      </w:pPr>
+      <w:r>
+        <w:t xml:space="preserve">Fixing broken automations </w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="69BE2A7E" w14:textId="77777777" w:rsidR="00B642BC" w:rsidRPr="00B642BC" w:rsidRDefault="00B642BC" w:rsidP="00B642BC">
+      <w:pPr>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="24"/>
+        </w:numPr>
+        <w:tabs>
+          <w:tab w:val="clear" w:pos="720"/>
+          <w:tab w:val="num" w:pos="1440"/>
+        </w:tabs>
+        <w:ind w:left="1440"/>
+      </w:pPr>
+      <w:r>
+        <w:t xml:space="preserve">Small improvements </w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="3F7119DC" w14:textId="77777777" w:rsidR="00B642BC" w:rsidRPr="00B642BC" w:rsidRDefault="00B642BC" w:rsidP="00B642BC">
+      <w:pPr>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="24"/>
+        </w:numPr>
+        <w:tabs>
+          <w:tab w:val="clear" w:pos="720"/>
+          <w:tab w:val="num" w:pos="1440"/>
+        </w:tabs>
+        <w:ind w:left="1440"/>
+      </w:pPr>
+      <w:r>
+        <w:t xml:space="preserve">Tool adjustments </w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="70F9F0F3" w14:textId="77777777" w:rsidR="00B642BC" w:rsidRPr="00B642BC" w:rsidRDefault="00B642BC" w:rsidP="00B642BC">
+      <w:pPr>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="24"/>
+        </w:numPr>
+        <w:tabs>
+          <w:tab w:val="clear" w:pos="720"/>
+          <w:tab w:val="num" w:pos="1440"/>
+        </w:tabs>
+        <w:ind w:left="1440"/>
+      </w:pPr>
+      <w:r>
+        <w:t xml:space="preserve">Ongoing optimisation </w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="0AD18E83" w14:textId="77777777" w:rsidR="00B642BC" w:rsidRPr="00B642BC" w:rsidRDefault="00B642BC" w:rsidP="00B642BC"/>
+    <w:p w14:paraId="6EE36218" w14:textId="6411A859" w:rsidR="00976A9C" w:rsidRPr="00343B6C" w:rsidRDefault="00976A9C" w:rsidP="00976A9C">
+      <w:pPr>
+        <w:pBdr>
+          <w:bottom w:val="single" w:sz="10" w:space="1" w:color="00B4D8"/>
+        </w:pBdr>
+        <w:spacing w:before="300" w:after="60"/>
+        <w:rPr>
+          <w:color w:val="0D47A1"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0D47A1"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t>Are These Prices Right for You?</w:t>
+      </w:r>
+      
+      
+    </w:p>
+    <w:p w14:paraId="65AB8E53" w14:textId="77777777" w:rsidR="009B256E" w:rsidRPr="00EA1DFC" w:rsidRDefault="009B256E" w:rsidP="009B256E">
+      <w:pPr>
+        <w:spacing w:line="276" w:lineRule="auto"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+        </w:rPr>
+        <w:t>Use this simple formula:</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="018003F6" w14:textId="77777777" w:rsidR="009B256E" w:rsidRPr="00EA1DFC" w:rsidRDefault="009B256E" w:rsidP="002D3A46">
+      <w:pPr>
+        <w:spacing w:line="276" w:lineRule="auto"/>
+        <w:ind w:left="360"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Segoe UI Emoji" w:hAnsi="Segoe UI Emoji" w:cs="Segoe UI Emoji"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+        </w:rPr>
+        <w:t>👉</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> Ask yourself:</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="2724A6DF" w14:textId="77777777" w:rsidR="009B256E" w:rsidRPr="00EA1DFC" w:rsidRDefault="009B256E" w:rsidP="002D3A46">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="10"/>
+        </w:numPr>
+        <w:spacing w:after="160" w:line="276" w:lineRule="auto"/>
+        <w:ind w:left="1080"/>
+        <w:contextualSpacing/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+        </w:rPr>
+        <w:t xml:space="preserve">Does this save me time? </w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="44227CD3" w14:textId="77777777" w:rsidR="009B256E" w:rsidRPr="00EA1DFC" w:rsidRDefault="009B256E" w:rsidP="002D3A46">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="10"/>
+        </w:numPr>
+        <w:spacing w:after="160" w:line="276" w:lineRule="auto"/>
+        <w:ind w:left="1080"/>
+        <w:contextualSpacing/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+        </w:rPr>
+        <w:t xml:space="preserve">Does this make more money? </w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="7A1B7863" w14:textId="77777777" w:rsidR="009B256E" w:rsidRPr="00EA1DFC" w:rsidRDefault="009B256E" w:rsidP="002D3A46">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="10"/>
+        </w:numPr>
+        <w:spacing w:after="160" w:line="276" w:lineRule="auto"/>
+        <w:ind w:left="1080"/>
+        <w:contextualSpacing/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+        </w:rPr>
+        <w:t xml:space="preserve">Does this remove my constant stress? </w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="0AE66C4C" w14:textId="77777777" w:rsidR="009B256E" w:rsidRPr="00EA1DFC" w:rsidRDefault="009B256E" w:rsidP="009B256E">
+      <w:pPr>
+        <w:spacing w:line="276" w:lineRule="auto"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+        </w:rPr>
+        <w:t>If YES → you are on the right track! Remember: Automation is not just about saving time—it directly impacts your revenue.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="2266394E" w14:textId="77777777" w:rsidR="001F11D1" w:rsidRPr="00BE1498" w:rsidRDefault="001F11D1" w:rsidP="001F11D1">
+      <w:pPr>
+        <w:pBdr>
+          <w:bottom w:val="single" w:sz="10" w:space="1" w:color="00B4D8"/>
+        </w:pBdr>
+        <w:spacing w:before="300" w:after="60"/>
+        <w:rPr>
+          <w:color w:val="0D47A1"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0D47A1"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t>Industries We Support</w:t>
+      </w:r>
+    </w:p>
+    <w:tbl>
+      <w:tblPr>
+        <w:tblW w:w="9360" w:type="dxa"/>
+        <w:tblBorders>
+          <w:top w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+          <w:left w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+          <w:bottom w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+          <w:right w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+          <w:insideH w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+          <w:insideV w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+        </w:tblBorders>
+        <w:tblCellMar>
+          <w:left w:w="10" w:type="dxa"/>
+          <w:right w:w="10" w:type="dxa"/>
+        </w:tblCellMar>
+        <w:tblLook w:val="0000" w:firstRow="0" w:lastRow="0" w:firstColumn="0" w:lastColumn="0" w:noHBand="0" w:noVBand="0"/>
+      </w:tblPr>
+      <w:tblGrid>
+        <w:gridCol w:w="4560"/>
+        <w:gridCol w:w="240"/>
+        <w:gridCol w:w="4560"/>
+      </w:tblGrid>
+      <w:tr w:rsidR="001F11D1" w14:paraId="5662304E" w14:textId="77777777" w:rsidTr="00794F79">
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="4560" w:type="dxa"/>
+            <w:tcBorders>
+              <w:top w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+              <w:left w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+              <w:bottom w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+              <w:right w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+            </w:tcBorders>
+            <w:tcMar>
+              <w:top w:w="60" w:type="dxa"/>
+              <w:left w:w="80" w:type="dxa"/>
+              <w:bottom w:w="60" w:type="dxa"/>
+              <w:right w:w="80" w:type="dxa"/>
+            </w:tcMar>
+          </w:tcPr>
+          <w:p w14:paraId="46B12DF1" w14:textId="77777777" w:rsidR="001F11D1" w:rsidRDefault="001F11D1" w:rsidP="00794F79">
+            <w:pPr>
+              <w:pStyle w:val="ListParagraph"/>
+              <w:numPr>
+                <w:ilvl w:val="0"/>
+                <w:numId w:val="2"/>
+              </w:numPr>
+              <w:spacing w:before="50" w:after="50"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Cafes &amp; Hospitality</w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="163C50C4" w14:textId="77777777" w:rsidR="001F11D1" w:rsidRDefault="001F11D1" w:rsidP="00794F79">
+            <w:pPr>
+              <w:pStyle w:val="ListParagraph"/>
+              <w:numPr>
+                <w:ilvl w:val="0"/>
+                <w:numId w:val="2"/>
+              </w:numPr>
+              <w:spacing w:before="50" w:after="50"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Retail Businesses</w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="22F33D5B" w14:textId="77777777" w:rsidR="001F11D1" w:rsidRDefault="001F11D1" w:rsidP="00794F79">
+            <w:pPr>
+              <w:pStyle w:val="ListParagraph"/>
+              <w:numPr>
+                <w:ilvl w:val="0"/>
+                <w:numId w:val="2"/>
+              </w:numPr>
+              <w:spacing w:before="50" w:after="50"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Professional Services</w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="688590D7" w14:textId="77777777" w:rsidR="001F11D1" w:rsidRDefault="001F11D1" w:rsidP="00794F79">
+            <w:pPr>
+              <w:pStyle w:val="ListParagraph"/>
+              <w:numPr>
+                <w:ilvl w:val="0"/>
+                <w:numId w:val="2"/>
+              </w:numPr>
+              <w:spacing w:before="50" w:after="50"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Trades &amp; Construction</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="240" w:type="dxa"/>
+            <w:tcBorders>
+              <w:top w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+              <w:left w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+              <w:bottom w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+              <w:right w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+            </w:tcBorders>
+            <w:tcMar>
+              <w:top w:w="0" w:type="dxa"/>
+              <w:left w:w="0" w:type="dxa"/>
+              <w:bottom w:w="0" w:type="dxa"/>
+              <w:right w:w="0" w:type="dxa"/>
+            </w:tcMar>
+          </w:tcPr>
+          <w:p w14:paraId="67127E91" w14:textId="77777777" w:rsidR="001F11D1" w:rsidRDefault="001F11D1" w:rsidP="00794F79"/>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="4560" w:type="dxa"/>
+            <w:tcBorders>
+              <w:top w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+              <w:left w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+              <w:bottom w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+              <w:right w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+            </w:tcBorders>
+            <w:tcMar>
+              <w:top w:w="60" w:type="dxa"/>
+              <w:left w:w="80" w:type="dxa"/>
+              <w:bottom w:w="60" w:type="dxa"/>
+              <w:right w:w="80" w:type="dxa"/>
+            </w:tcMar>
+          </w:tcPr>
+          <w:p w14:paraId="4B8E612F" w14:textId="77777777" w:rsidR="001F11D1" w:rsidRDefault="001F11D1" w:rsidP="00794F79">
+            <w:pPr>
+              <w:pStyle w:val="ListParagraph"/>
+              <w:numPr>
+                <w:ilvl w:val="0"/>
+                <w:numId w:val="2"/>
+              </w:numPr>
+              <w:spacing w:before="50" w:after="50"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Accounting &amp; Bookkeeping Firms</w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="3033201E" w14:textId="77777777" w:rsidR="001F11D1" w:rsidRDefault="001F11D1" w:rsidP="00794F79">
+            <w:pPr>
+              <w:pStyle w:val="ListParagraph"/>
+              <w:numPr>
+                <w:ilvl w:val="0"/>
+                <w:numId w:val="2"/>
+              </w:numPr>
+              <w:spacing w:before="50" w:after="50"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Service-Based Businesses</w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="3463E2C9" w14:textId="77777777" w:rsidR="001F11D1" w:rsidRDefault="001F11D1" w:rsidP="00794F79">
+            <w:pPr>
+              <w:pStyle w:val="ListParagraph"/>
+              <w:numPr>
+                <w:ilvl w:val="0"/>
+                <w:numId w:val="2"/>
+              </w:numPr>
+              <w:spacing w:before="50" w:after="50"/>
+            </w:pPr>
+            <w:r>
+              <w:t>Startups</w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="77000239" w14:textId="77777777" w:rsidR="001F11D1" w:rsidRDefault="001F11D1" w:rsidP="00794F79">
+            <w:pPr>
+              <w:pStyle w:val="ListParagraph"/>
+              <w:numPr>
+                <w:ilvl w:val="0"/>
+                <w:numId w:val="2"/>
+              </w:numPr>
+              <w:spacing w:before="50" w:after="50"/>
+            </w:pPr>
+            <w:r>
+              <w:t>And more...</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+    </w:tbl>
+    <w:p w14:paraId="0FE3F3E2" w14:textId="77777777" w:rsidR="001F11D1" w:rsidRDefault="001F11D1" w:rsidP="001F11D1">
+      <w:pPr>
+        <w:spacing w:before="80" w:after="80"/>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="370FECE2" w14:textId="77777777" w:rsidR="001F11D1" w:rsidRPr="00BE1498" w:rsidRDefault="001F11D1" w:rsidP="001F11D1">
+      <w:pPr>
+        <w:pBdr>
+          <w:bottom w:val="single" w:sz="10" w:space="1" w:color="00B4D8"/>
+        </w:pBdr>
+        <w:spacing w:before="300" w:after="60"/>
+        <w:rPr>
+          <w:color w:val="0D47A1"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0D47A1"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t>Why Businesses Work with Us</w:t>
+      </w:r>
+    </w:p>
+    <w:tbl>
+      <w:tblPr>
+        <w:tblW w:w="10047" w:type="dxa"/>
+        <w:tblBorders>
+          <w:top w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+          <w:left w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+          <w:bottom w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+          <w:right w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+          <w:insideH w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+          <w:insideV w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+        </w:tblBorders>
+        <w:tblCellMar>
+          <w:left w:w="10" w:type="dxa"/>
+          <w:right w:w="10" w:type="dxa"/>
+        </w:tblCellMar>
+        <w:tblLook w:val="0000" w:firstRow="0" w:lastRow="0" w:firstColumn="0" w:lastColumn="0" w:noHBand="0" w:noVBand="0"/>
+      </w:tblPr>
+      <w:tblGrid>
+        <w:gridCol w:w="2412"/>
+        <w:gridCol w:w="134"/>
+        <w:gridCol w:w="2411"/>
+        <w:gridCol w:w="134"/>
+        <w:gridCol w:w="2411"/>
+        <w:gridCol w:w="134"/>
+        <w:gridCol w:w="2411"/>
+      </w:tblGrid>
+      <w:tr w:rsidR="001F11D1" w:rsidRPr="00A2572D" w14:paraId="406F89AA" w14:textId="77777777" w:rsidTr="00794F79">
+        <w:trPr>
+          <w:trHeight w:val="1008"/>
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="2412" w:type="dxa"/>
+            <w:tcBorders>
+              <w:top w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+              <w:left w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+              <w:bottom w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+              <w:right w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="auto" w:fill="0D47A1"/>
+            <w:tcMar>
+              <w:top w:w="160" w:type="dxa"/>
+              <w:left w:w="160" w:type="dxa"/>
+              <w:bottom w:w="160" w:type="dxa"/>
+              <w:right w:w="160" w:type="dxa"/>
+            </w:tcMar>
+          </w:tcPr>
+          <w:p w14:paraId="78FF7463" w14:textId="77777777" w:rsidR="001F11D1" w:rsidRPr="00A2572D" w:rsidRDefault="001F11D1" w:rsidP="00794F79">
+            <w:pPr>
+              <w:spacing w:after="60"/>
+              <w:rPr>
+                <w:sz w:val="24"/>
+                <w:szCs w:val="24"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:b/>
+                <w:bCs/>
+                <w:color w:val="D4AF37"/>
+                <w:sz w:val="24"/>
+                <w:szCs w:val="24"/>
+              </w:rPr>
+              <w:t>✓</w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:b/>
+                <w:bCs/>
+                <w:color w:val="00B4D8"/>
+                <w:sz w:val="24"/>
+                <w:szCs w:val="24"/>
+              </w:rPr>
+              <w:t xml:space="preserve"> </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:b/>
+                <w:bCs/>
+                <w:color w:val="D4AF37"/>
+                <w:sz w:val="24"/>
+                <w:szCs w:val="24"/>
+              </w:rPr>
+              <w:t>Practical</w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="7B20F572" w14:textId="77777777" w:rsidR="001F11D1" w:rsidRPr="00A2572D" w:rsidRDefault="001F11D1" w:rsidP="00794F79">
+            <w:r>
+              <w:rPr>
+                <w:color w:val="FFFFFF" w:themeColor="background1"/>
+              </w:rPr>
+              <w:t>Real-world solutions built for how businesses actually operate.</w:t>
+            </w:r>
+            
+            
+            
+            
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="134" w:type="dxa"/>
+            <w:tcBorders>
+              <w:top w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+              <w:left w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+              <w:bottom w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+              <w:right w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+            </w:tcBorders>
+            <w:tcMar>
+              <w:top w:w="0" w:type="dxa"/>
+              <w:left w:w="0" w:type="dxa"/>
+              <w:bottom w:w="0" w:type="dxa"/>
+              <w:right w:w="0" w:type="dxa"/>
+            </w:tcMar>
+          </w:tcPr>
+          <w:p w14:paraId="3A74FD71" w14:textId="77777777" w:rsidR="001F11D1" w:rsidRPr="00A2572D" w:rsidRDefault="001F11D1" w:rsidP="00794F79"/>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="2411" w:type="dxa"/>
+            <w:tcBorders>
+              <w:top w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+              <w:left w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+              <w:bottom w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+              <w:right w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="auto" w:fill="0D47A1"/>
+            <w:tcMar>
+              <w:top w:w="160" w:type="dxa"/>
+              <w:left w:w="160" w:type="dxa"/>
+              <w:bottom w:w="160" w:type="dxa"/>
+              <w:right w:w="160" w:type="dxa"/>
+            </w:tcMar>
+          </w:tcPr>
+          <w:p w14:paraId="352BA89A" w14:textId="77777777" w:rsidR="001F11D1" w:rsidRPr="00A2572D" w:rsidRDefault="001F11D1" w:rsidP="00794F79">
+            <w:pPr>
+              <w:spacing w:after="60"/>
+              <w:rPr>
+                <w:color w:val="D4AF37"/>
+                <w:sz w:val="24"/>
+                <w:szCs w:val="24"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:b/>
+                <w:bCs/>
+                <w:color w:val="D4AF37"/>
+                <w:sz w:val="24"/>
+                <w:szCs w:val="24"/>
+              </w:rPr>
+              <w:t>✓ Tailored</w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="66EFD989" w14:textId="77777777" w:rsidR="001F11D1" w:rsidRPr="00A2572D" w:rsidRDefault="001F11D1" w:rsidP="00794F79">
+            <w:r>
+              <w:rPr>
+                <w:color w:val="FFFFFF" w:themeColor="background1"/>
+              </w:rPr>
+              <w:t>We understand small business challenges and design accordingly.</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="134" w:type="dxa"/>
+            <w:tcBorders>
+              <w:top w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+              <w:left w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+              <w:bottom w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+              <w:right w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+            </w:tcBorders>
+            <w:tcMar>
+              <w:top w:w="0" w:type="dxa"/>
+              <w:left w:w="0" w:type="dxa"/>
+              <w:bottom w:w="0" w:type="dxa"/>
+              <w:right w:w="0" w:type="dxa"/>
+            </w:tcMar>
+          </w:tcPr>
+          <w:p w14:paraId="1A794273" w14:textId="77777777" w:rsidR="001F11D1" w:rsidRPr="00A2572D" w:rsidRDefault="001F11D1" w:rsidP="00794F79"/>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="2411" w:type="dxa"/>
+            <w:tcBorders>
+              <w:top w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+              <w:left w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+              <w:bottom w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+              <w:right w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="auto" w:fill="0D47A1"/>
+            <w:tcMar>
+              <w:top w:w="160" w:type="dxa"/>
+              <w:left w:w="160" w:type="dxa"/>
+              <w:bottom w:w="160" w:type="dxa"/>
+              <w:right w:w="160" w:type="dxa"/>
+            </w:tcMar>
+          </w:tcPr>
+          <w:p w14:paraId="38F6FBE9" w14:textId="77777777" w:rsidR="001F11D1" w:rsidRPr="00A2572D" w:rsidRDefault="001F11D1" w:rsidP="00794F79">
+            <w:pPr>
+              <w:spacing w:after="60"/>
+              <w:rPr>
+                <w:color w:val="D4AF37"/>
+                <w:sz w:val="24"/>
+                <w:szCs w:val="24"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:b/>
+                <w:bCs/>
+                <w:color w:val="D4AF37"/>
+                <w:sz w:val="24"/>
+                <w:szCs w:val="24"/>
+              </w:rPr>
+              <w:t>✓ Modern</w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="762AF414" w14:textId="77777777" w:rsidR="001F11D1" w:rsidRPr="00A2572D" w:rsidRDefault="001F11D1" w:rsidP="00794F79">
+            <w:r>
+              <w:rPr>
+                <w:color w:val="FFFFFF" w:themeColor="background1"/>
+              </w:rPr>
+              <w:t>Cutting-edge technology applied pragmatically</w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:color w:val="AEC6CF"/>
+              </w:rPr>
+              <w:t>.</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="134" w:type="dxa"/>
+            <w:tcBorders>
+              <w:top w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+              <w:left w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+              <w:bottom w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+              <w:right w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+            </w:tcBorders>
+            <w:tcMar>
+              <w:top w:w="0" w:type="dxa"/>
+              <w:left w:w="0" w:type="dxa"/>
+              <w:bottom w:w="0" w:type="dxa"/>
+              <w:right w:w="0" w:type="dxa"/>
+            </w:tcMar>
+          </w:tcPr>
+          <w:p w14:paraId="68E2ACAF" w14:textId="77777777" w:rsidR="001F11D1" w:rsidRPr="00A2572D" w:rsidRDefault="001F11D1" w:rsidP="00794F79"/>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="2411" w:type="dxa"/>
+            <w:tcBorders>
+              <w:top w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+              <w:left w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+              <w:bottom w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+              <w:right w:val="none" w:sz="0" w:space="0" w:color="FFFFFF"/>
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="auto" w:fill="0D47A1"/>
+            <w:tcMar>
+              <w:top w:w="160" w:type="dxa"/>
+              <w:left w:w="160" w:type="dxa"/>
+              <w:bottom w:w="160" w:type="dxa"/>
+              <w:right w:w="160" w:type="dxa"/>
+            </w:tcMar>
+          </w:tcPr>
+          <w:p w14:paraId="5B079482" w14:textId="77777777" w:rsidR="001F11D1" w:rsidRPr="00A2572D" w:rsidRDefault="001F11D1" w:rsidP="00794F79">
+            <w:pPr>
+              <w:spacing w:after="60"/>
+              <w:rPr>
+                <w:color w:val="D4AF37"/>
+                <w:sz w:val="24"/>
+                <w:szCs w:val="24"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:b/>
+                <w:bCs/>
+                <w:color w:val="D4AF37"/>
+                <w:sz w:val="24"/>
+                <w:szCs w:val="24"/>
+              </w:rPr>
+              <w:t>✓ Growth-Focused</w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="4CD91E63" w14:textId="77777777" w:rsidR="001F11D1" w:rsidRPr="00A2572D" w:rsidRDefault="001F11D1" w:rsidP="00794F79">
+            <w:r>
+              <w:rPr>
+                <w:color w:val="FFFFFF" w:themeColor="background1"/>
+              </w:rPr>
+              <w:t>Systems designed to scale with your business.</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+    </w:tbl>
+    <w:p w14:paraId="12012676" w14:textId="77777777" w:rsidR="001F11D1" w:rsidRDefault="001F11D1" w:rsidP="001F11D1">
+      <w:pPr>
+        <w:spacing w:before="80" w:after="80"/>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="50992177" w14:textId="77777777" w:rsidR="00343B6C" w:rsidRDefault="00343B6C">
+      <w:pPr>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0D47A1"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0D47A1"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:br w:type="page"/>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="3B72A77C" w14:textId="337CAA2C" w:rsidR="00976A9C" w:rsidRPr="001F11D1" w:rsidRDefault="00976A9C" w:rsidP="00976A9C">
+      <w:pPr>
+        <w:pBdr>
+          <w:bottom w:val="single" w:sz="10" w:space="1" w:color="00B4D8"/>
+        </w:pBdr>
+        <w:spacing w:before="300" w:after="60"/>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0D47A1"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0D47A1"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:lastRenderedPageBreak/>
+        <w:t>Next Steps</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="29E798B0" w14:textId="77777777" w:rsidR="00485A21" w:rsidRPr="00EA1DFC" w:rsidRDefault="00485A21" w:rsidP="00485A21">
+      <w:pPr>
+        <w:spacing w:line="276" w:lineRule="auto"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+        </w:rPr>
+        <w:t>If you&#x2019;re open to it, I can:</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="34D96C62" w14:textId="47F2C4A8" w:rsidR="00485A21" w:rsidRPr="00DB57AD" w:rsidRDefault="00485A21" w:rsidP="00485A21">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="11"/>
+        </w:numPr>
+        <w:spacing w:after="160" w:line="276" w:lineRule="auto"/>
+        <w:contextualSpacing/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:sz w:val="24"/>
+          <w:szCs w:val="24"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:sz w:val="24"/>
+          <w:szCs w:val="24"/>
+        </w:rPr>
+        <w:t>Walk you through a quick demo (free 30-60 minute session) which will include the following:</w:t>
+      </w:r>
+      
+      
+      
+      
+      
+      
+      
+    </w:p>
+    <w:p w14:paraId="141FBA47" w14:textId="21140F82" w:rsidR="00485A21" w:rsidRPr="00DB57AD" w:rsidRDefault="00485A21" w:rsidP="002952FF">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="1"/>
+          <w:numId w:val="11"/>
+        </w:numPr>
+        <w:spacing w:after="160" w:line="276" w:lineRule="auto"/>
+        <w:contextualSpacing/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:sz w:val="24"/>
+          <w:szCs w:val="24"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:sz w:val="24"/>
+          <w:szCs w:val="24"/>
+        </w:rPr>
+        <w:t>Identify 1–2 areas where automation will have the biggest impact)</w:t>
+      </w:r>
+      
+    </w:p>
+    <w:p w14:paraId="203A04FF" w14:textId="77777777" w:rsidR="00485A21" w:rsidRPr="00DB57AD" w:rsidRDefault="00485A21" w:rsidP="002952FF">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="1"/>
+          <w:numId w:val="11"/>
+        </w:numPr>
+        <w:spacing w:after="160" w:line="276" w:lineRule="auto"/>
+        <w:contextualSpacing/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:sz w:val="24"/>
+          <w:szCs w:val="24"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:sz w:val="24"/>
+          <w:szCs w:val="24"/>
+        </w:rPr>
+        <w:t xml:space="preserve">Set up a tailored system for your business </w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="7B83A953" w14:textId="77777777" w:rsidR="00DB57AD" w:rsidRPr="00DB57AD" w:rsidRDefault="00DB57AD" w:rsidP="00DB57AD">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:spacing w:after="160" w:line="276" w:lineRule="auto"/>
+        <w:ind w:left="1440"/>
+        <w:contextualSpacing/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:sz w:val="24"/>
+          <w:szCs w:val="24"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="5E9D6685" w14:textId="30479FF5" w:rsidR="00491742" w:rsidRPr="00DB57AD" w:rsidRDefault="00491742" w:rsidP="00491742">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="11"/>
+        </w:numPr>
+        <w:rPr>
+          <w:sz w:val="24"/>
+          <w:szCs w:val="24"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:sz w:val="24"/>
+          <w:szCs w:val="24"/>
+        </w:rPr>
+        <w:t xml:space="preserve">Once you&#x2019;ve signified your intent, you will receive your proposal template which includes the following: </w:t>
+      </w:r>
+      
+      
+      
+    </w:p>
+    <w:p w14:paraId="5772D7E1" w14:textId="1F8C6806" w:rsidR="00491742" w:rsidRPr="00DB57AD" w:rsidRDefault="00491742" w:rsidP="00491742">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="1"/>
+          <w:numId w:val="11"/>
+        </w:numPr>
+        <w:rPr>
+          <w:sz w:val="24"/>
+          <w:szCs w:val="24"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="24"/>
+          <w:szCs w:val="24"/>
+        </w:rPr>
+        <w:t xml:space="preserve">Process &amp; Workflow Audit </w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="6BD0AB3A" w14:textId="77777777" w:rsidR="00491742" w:rsidRPr="00DB57AD" w:rsidRDefault="00491742" w:rsidP="00491742">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="2"/>
+          <w:numId w:val="11"/>
+        </w:numPr>
+        <w:rPr>
+          <w:sz w:val="24"/>
+          <w:szCs w:val="24"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:sz w:val="24"/>
+          <w:szCs w:val="24"/>
+        </w:rPr>
+        <w:t>Map current operations (bookings, admin, bookkeeping, staff tasks) + improvement plan</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="3F45BDC4" w14:textId="687F6613" w:rsidR="00491742" w:rsidRPr="00DB57AD" w:rsidRDefault="00491742" w:rsidP="00491742">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="1"/>
+          <w:numId w:val="11"/>
+        </w:numPr>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="24"/>
+          <w:szCs w:val="24"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="24"/>
+          <w:szCs w:val="24"/>
+        </w:rPr>
+        <w:t xml:space="preserve">Automation Roadmap (Business Plan) </w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="718DDF0B" w14:textId="77777777" w:rsidR="00491742" w:rsidRPr="00DB57AD" w:rsidRDefault="00491742" w:rsidP="00491742">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="2"/>
+          <w:numId w:val="11"/>
+        </w:numPr>
+        <w:rPr>
+          <w:sz w:val="24"/>
+          <w:szCs w:val="24"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:sz w:val="24"/>
+          <w:szCs w:val="24"/>
+        </w:rPr>
+        <w:t>Full breakdown of recommended tools, workflows, and implementation plan</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="235713C0" w14:textId="77777777" w:rsidR="00491742" w:rsidRPr="00EA1DFC" w:rsidRDefault="00491742" w:rsidP="00DB57AD">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:spacing w:after="160" w:line="276" w:lineRule="auto"/>
+        <w:ind w:left="720"/>
+        <w:contextualSpacing/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="5886BEFA" w14:textId="69C40785" w:rsidR="004944FD" w:rsidRPr="001F11D1" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pBdr>
+          <w:bottom w:val="single" w:sz="10" w:space="1" w:color="00B4D8"/>
+        </w:pBdr>
+        <w:spacing w:before="300" w:after="60"/>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0D47A1"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0D47A1"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t>Contact Us</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="0FF61413" w14:textId="77777777" w:rsidR="002952FF" w:rsidRDefault="002952FF" w:rsidP="004944FD">
+      <w:pPr>
+        <w:spacing w:before="60" w:after="60"/>
+        <w:jc w:val="center"/>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="D4AF37"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="4A1F3509" w14:textId="415FB6D6" w:rsidR="004944FD" w:rsidRPr="004944FD" w:rsidRDefault="004944FD" w:rsidP="004944FD">
+      <w:pPr>
+        <w:spacing w:before="60" w:after="60"/>
+        <w:jc w:val="center"/>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0D47A1"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="D4AF37"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+        </w:rPr>
+        <w:t>Email</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="FFFFFF" w:themeColor="background1"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+        </w:rPr>
+        <w:t xml:space="preserve">: </w:t>
+      </w:r>
+      <w:hyperlink r:id="rId8" w:history="1">
+        <w:r>
+          <w:rPr>
+            <w:rStyle w:val="Hyperlink"/>
+            <w:b/>
+            <w:bCs/>
+            <w:color w:val="0D47A1"/>
+            <w:sz w:val="22"/>
+            <w:szCs w:val="22"/>
+          </w:rPr>
+          <w:t>info@justconnectsolutions.com</w:t>
+        </w:r>
+      </w:hyperlink>
+    </w:p>
+    <w:p w14:paraId="2A4281BF" w14:textId="05C85844" w:rsidR="004944FD" w:rsidRPr="004944FD" w:rsidRDefault="004944FD" w:rsidP="004944FD">
+      <w:pPr>
+        <w:tabs>
+          <w:tab w:val="center" w:pos="4392"/>
+          <w:tab w:val="right" w:pos="8785"/>
+        </w:tabs>
+        <w:spacing w:before="60" w:after="60"/>
+        <w:jc w:val="center"/>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="D4AF37"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="D4AF37"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+        </w:rPr>
+        <w:t>Mobile</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0D47A1"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+        </w:rPr>
+        <w:t>: 0414 146 953</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="5478504E" w14:textId="77777777" w:rsidR="004944FD" w:rsidRPr="004944FD" w:rsidRDefault="004944FD" w:rsidP="004944FD">
+      <w:pPr>
+        <w:spacing w:before="60" w:after="60"/>
+        <w:jc w:val="center"/>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="FFFFFF" w:themeColor="background1"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="D4AF37"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+        </w:rPr>
+        <w:t xml:space="preserve">Website: </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0D47A1"/>
+          <w:sz w:val="22"/>
+          <w:szCs w:val="22"/>
+        </w:rPr>
+        <w:t>www.justconnectsolutions.com</w:t>
+      </w:r>
+    </w:p>
+    <w:sectPr w:rsidR="004944FD" w:rsidRPr="004944FD">
+      <w:headerReference w:type="default" r:id="rId9"/>
+      <w:footerReference w:type="default" r:id="rId10"/>
+      <w:pgSz w:w="12240" w:h="15840"/>
+      <w:pgMar w:top="720" w:right="1080" w:bottom="720" w:left="1080" w:header="708" w:footer="708" w:gutter="0"/>
+      <w:cols w:space="720"/>
+      <w:docGrid w:linePitch="360"/>
+    </w:sectPr>
+  </w:body>
+</w:document>
